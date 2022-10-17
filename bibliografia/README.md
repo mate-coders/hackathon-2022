@@ -1,11 +1,12 @@
 # Bibliografia
 
-@agustin1996ra :
+@agustin:
+
 Les propongo, que mientras vallamos agregando cosas a la biliografia,
-nos tomemos el trabajo de armar tipo un indice en ete archivo.
+nos tomemos el trabajo de armar tipo un ndice en este archivo.
 
 
-# Indice
+# Índice
 ## DiagonalAPP
 En la carpeta `Actividad 3`, hay documento word `Plan del Proyecto- Grupo 3.docx` que mustra un esquema, del proceso de
 produccion de una apliacion web como guia turistica.
