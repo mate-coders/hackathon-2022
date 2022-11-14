@@ -67,5 +67,78 @@ ggplot(ofertaydemanda) +
                               hjust = 0.5)
   )
 
-of + geom_line(aes(date, POPT))
-of + geom_line(aes(date, DET))
+ggplot(ofertaydemanda) +
+  aes(x = date, y = POPT) +
+  geom_line(size = 0.8, colour = "#FF8C00") +
+  labs(
+    x = "Fecha",
+    y = "Porcentaje de ocupacion de plazas totales",
+    title = "Ocupacion de plazas"
+  ) +
+  theme_economist() +
+  theme(
+    plot.title = element_text(size = 18L,
+                              face = "bold.italic",
+                              hjust = 0.5)
+  )
+
+ggplot(ofertaydemanda) +
+  aes(x = date, y = DET) +
+  geom_line(size = 0.8, colour = "#FF8C00") +
+  labs(
+    x = "Fecha",
+    y = "Dias",
+    title = "Duracion de estadía promedio de los turistas"
+  ) +
+  theme_economist() +
+  theme(
+    plot.title = element_text(size = 18L,
+                              face = "bold.italic",
+                              hjust = 0.5)
+  )
+
+# Estos graficos no me convencen tanto
+ggplot(demanda) +
+  aes(x = date, y = VT) +
+  geom_line(size = 0.8, colour = "#FF8C00") +
+  labs(
+    x = "Fecha",
+    y = "Cantidad de viajeros por mes",
+    title = "Viajeros Totales"
+  ) +
+  theme_economist() +
+  theme(
+    plot.title = element_text(size = 18L,
+                              face = "bold.italic",
+                              hjust = 0.5)
+  )
+ggplot(demanda) +
+  aes(x = date, y = VR) +
+  geom_line(size = 0.8, colour = "#FF8C00") +
+  labs(
+    x = "Fecha",
+    y = "Cantidad de viajeros por mes",
+    title = "Viajeros Residentes de Argentina"
+  ) +
+  theme_economist() +
+  theme(
+    plot.title = element_text(size = 18L,
+                              face = "bold.italic",
+                              hjust = 0.5)
+  )
+ggplot(demanda) +
+  aes(x = date, y = VNR) +
+  geom_line(size = 0.8, colour = "#FF8C00") +
+  labs(
+    x = "Fecha",
+    y = "Cantidad de viajeros por mes",
+    title = "Viajeros No Residentes de Argentina"
+  ) +
+  theme_economist() +
+  theme(
+    plot.title = element_text(size = 18L,
+                              face = "bold.italic",
+                              hjust = 0.5)
+  )
+
+
