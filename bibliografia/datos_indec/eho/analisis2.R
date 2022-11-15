@@ -141,4 +141,19 @@ ggplot(demanda) +
                               hjust = 0.5)
   )
 
+# Oferta de plazas
+ggplot(ofertaydemanda) +
+  aes(x = date, y = PDT) +
+  geom_line(size = 0.8, colour = "#FF8C00") +
+  labs(
+    x = "Fecha",
+    y = "Cantidad de plazas disponibles en el mes",
+    title = "Plazas disponibles"
+  ) +
+  theme_economist() +
+  theme(
+    plot.title = element_text(size = 18L,
+                              face = "bold.italic",
+                              hjust = 0.5)
+  )
 
