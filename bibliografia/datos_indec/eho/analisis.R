@@ -23,8 +23,8 @@ d + geom_smooth(method = ) +
   theme_minimal()
 
 # Plazas Provincia de Mendoza
-plazas_pm <- c(14100, 9009, 6198, 3137, 2727, 2276, 5533)
-n_plazas_pm <- c("Hoteles", "Campings", "Cabañas", "PAT", "Apart Hotel", "Hostel", "Otros")
+plazas_pm <- c(14100, 9009, 6198, 3137, 2727, 7806)
+n_plazas_pm <- c("Hoteles", "Campings", "Cabañas", "PAT", "Apart Hotel", "Otros")
 pie(plazas_pm, labels = n_plazas_pm, main = "Plazas disponibles prov. Mendoza")
 
 # Plazas dpto San Rafael
