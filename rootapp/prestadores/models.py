@@ -1,11 +1,11 @@
 from django.db import models
-from django.contrib.gis.db import models as md
 
 
 class Prestadores(models.Model):
     nombre = models.CharField(max_length=50)
     email = models.EmailField(max_length=254)
-    ubicacion = md.PointField()
+    lat = models.FloatField()
+    lon = models.FloatField()
     descripcion = models.CharField(max_length=50)
 
     def __str__(self):
