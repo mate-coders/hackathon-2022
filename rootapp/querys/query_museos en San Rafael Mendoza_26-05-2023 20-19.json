@@ -1,0 +1,796 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jos\u00e9 Zapata S/N, M5600 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6111379,
+                    "lng": -68.326784
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.60987332010728,
+                        "lng": -68.32549337010727
+                    },
+                    "southwest": {
+                        "lat": -34.61257297989273,
+                        "lng": -68.32819302989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Museo Ferroviario",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2322,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108624001223169692686\">Gabriel Sucamele</a>"
+                    ],
+                    "photo_reference": "AZose0kdNiRpf8Q1_PQrjuM4ETQZU7p44VKoK7mHAts2dSnqc0tS4bFoMutIXY8vR5HRMF9kwetuZSVgyN92KXF-Sq1fa5MMXElt7q4wmJQ01cYVPWGyXqj0nu70E-JHcEot4uiDiccm-Ot-gsrKdanzOFD8Qcg3M1LXFp7kTsw1hSRgSlcA",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJKRjZSPsHeZYRDajqbQMA8q0",
+            "plus_code": {
+                "compound_code": "9MQF+G7 San Rafael, Mendoza Province",
+                "global_code": "47QH9MQF+G7"
+            },
+            "rating": 4.3,
+            "reference": "ChIJKRjZSPsHeZYRDajqbQMA8q0",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2422
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Av. Ing. Julio Balloffet 3099, San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6457049,
+                    "lng": -68.3754233
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.64441597010727,
+                        "lng": -68.37407732010726
+                    },
+                    "southwest": {
+                        "lat": -34.64711562989272,
+                        "lng": -68.37677697989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Natural History Museum San Rafael",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111581678072730637038\">A Google User</a>"
+                    ],
+                    "photo_reference": "AZose0m8B00sMKs3GOKguKv3BTGporW4osmhIhTT9e8Hj4cjUkXPVWgwHOhhmvtiFypobTN75CUfQsWhYKIi6KN2vvXgoQwjHbv4UHEYBrqQiQbf_fDpVuqc4N3dFRi1LZPg7KAObTn4EyyjBTUPijiVySY2DyWE0olMLlIkYUNs0m5v735d",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJn-e9-JuneZYRE64IyT__86g",
+            "plus_code": {
+                "compound_code": "9J3F+QR San Rafael, Mendoza Province",
+                "global_code": "47QH9J3F+QR"
+            },
+            "rating": 4.4,
+            "reference": "ChIJn-e9-JuneZYRE64IyT__86g",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 592
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "BBB, Av. Domingo Faustino Sarmiento 1196, M5602 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6206278,
+                    "lng": -68.3497728
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.61935247010728,
+                        "lng": -68.34846022010727
+                    },
+                    "southwest": {
+                        "lat": -34.62205212989273,
+                        "lng": -68.35115987989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Benelli Museum",
+            "place_id": "ChIJAdcFcRwIeZYRTcq4d0K5yVo",
+            "plus_code": {
+                "compound_code": "9MH2+P3 San Rafael, Mendoza Province",
+                "global_code": "47QH9MH2+P3"
+            },
+            "rating": 4.4,
+            "reference": "ChIJAdcFcRwIeZYRTcq4d0K5yVo",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "M5600GVP 148, GVP, Bernardo de Irigoyen, M5600 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6150784,
+                    "lng": -68.3278019
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.61371467010728,
+                        "lng": -68.32649387010729
+                    },
+                    "southwest": {
+                        "lat": -34.61641432989272,
+                        "lng": -68.32919352989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Museo De Arte \"Omar Reina\"",
+            "photos": [
+                {
+                    "height": 1530,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117895514670651334103\">Viviana Rebolloso</a>"
+                    ],
+                    "photo_reference": "AZose0kX6MdhUuBGNXQcZ8Cj7XvhfZur32UdqdBFKOnWCD5J13taDNiSPLXBNt-aGpjBFBboPO2J-psUhw6EHVttLwbXjsJYd5RaY1GfsUwwMvpbxaxzc84EfT3m8nvZXlOXvQaRkKnWilyIM9fj_MLrFbJYT5ijuCCT-g0GLUMRN6iGhM9-",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJBzjq9fsHeZYRCjkd3ezABq4",
+            "plus_code": {
+                "compound_code": "9MMC+XV San Rafael, Mendoza Province",
+                "global_code": "47QH9MMC+XV"
+            },
+            "rating": 4,
+            "reference": "ChIJBzjq9fsHeZYRCjkd3ezABq4",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": ",M5602EUC, Av. El Libertador 11, San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6166989,
+                    "lng": -68.3299462
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.61531432010728,
+                        "lng": -68.32869772010727
+                    },
+                    "southwest": {
+                        "lat": -34.61801397989272,
+                        "lng": -68.33139737989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Espacio Contempor\u00e1neo de Arte",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108301480075271585123\">Pablo Ibarra</a>"
+                    ],
+                    "photo_reference": "AZose0md-rbZp9I-ViIhG3Bz7HolC6igYxMSD6QyLX2Oi56CZbIDrqhojG8aZcEkBWl_lLu9fQHyTtU1mPNpK26YfTVpTn0D4O6WW-BKLK_8jhlCOxd1oSFWO81eSprIzurPQF2DtX-0zCQm0ebfriw91pZZoDyghu3oIcFZad6nnFhu4I4T",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJkR_9JvwHeZYRijj7Cz2BRDg",
+            "plus_code": {
+                "compound_code": "9MMC+82 San Rafael, Mendoza Province",
+                "global_code": "47QH9MMC+82"
+            },
+            "rating": 4.3,
+            "reference": "ChIJkR_9JvwHeZYRijj7Cz2BRDg",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 148
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Emilio Mitre 620, M5600 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6100646,
+                    "lng": -68.3263973
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.60874362010728,
+                        "lng": -68.32515642010728
+                    },
+                    "southwest": {
+                        "lat": -34.61144327989273,
+                        "lng": -68.32785607989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Vieja Locomotora de Ferrocarriles Argentinos",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115678668380464855779\">A Google User</a>"
+                    ],
+                    "photo_reference": "AZose0knL9sP3r2-ibHi2crmK5RzUUHoaASgsVjVsQgRB8ZF738N0X_21kVTmvpdjRz9WHJ5d-dxWAW5sK3mpdlwgz8EVsCAi6pZO4sGtbMFbJRPMERUc2JXGgq3X4p5Rskr3KSZxX9Mffa0Pu9zcE3qTBwM1b-Axobay_0KZolCCe5I2fgo",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ2TCrCZ8HeZYRMjmsquFRwzk",
+            "plus_code": {
+                "compound_code": "9MQF+XC San Rafael, Mendoza Province",
+                "global_code": "47QH9MQF+XC"
+            },
+            "rating": 5,
+            "reference": "ChIJ2TCrCZ8HeZYRMjmsquFRwzk",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Callej\u00f3n padre P\u00edo 150, M5600 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.5914109,
+                    "lng": -68.3634776
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.59042627010728,
+                        "lng": -68.36170512010729
+                    },
+                    "southwest": {
+                        "lat": -34.59312592989272,
+                        "lng": -68.36440477989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "MUSEO MAM",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3072,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100607835249732537030\">Celina Manini</a>"
+                    ],
+                    "photo_reference": "AZose0k7SZS0OeKMYHDKRG-xk6GdhFXrJolyvFh1ilnmp2J6CKHb03wrpuJmuWzpWUU4TAkq5qvAj8NiDz6gAGTHGv83FwQ1dLEO1PFfgb1M-QPIaeHBZa2fuMVp5xe9ZXztBBaeqs4DTpmUo2churK2pSVePYzURB47an9t9Mj0f1TXVEU_",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJjzfeilsIeZYRoNxcbIRdCQs",
+            "plus_code": {
+                "compound_code": "CJ5P+CJ San Rafael, Mendoza Province",
+                "global_code": "47QHCJ5P+CJ"
+            },
+            "rating": 4.5,
+            "reference": "ChIJjzfeilsIeZYRoNxcbIRdCQs",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 36
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Rafael Marques de Sobremonte, M5600 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6108006,
+                    "lng": -68.3475687
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.60927002010728,
+                        "lng": -68.34588947010728
+                    },
+                    "southwest": {
+                        "lat": -34.61196967989272,
+                        "lng": -68.34858912989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Plaza Francia",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3072,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108298652708697979910\">A Google User</a>"
+                    ],
+                    "photo_reference": "AZose0ndRKdMWyrHA_ucWhsEzJohG6iMS6S4pBkhw61rRoaW1Ya4vp2E9d_PMkbjfhaX1wDvAgEhNTqZ_t5E6KC7D_Z1NkLWldQR29zdpqlFFMAotToRkj3mOH35defKGnUpKr6fMx1CCFck-vLtgK4BemEWQJ63Hx_HpyQGT3kM_hULt8k",
+                    "width": 4080
+                }
+            ],
+            "place_id": "ChIJM4lBwREIeZYRjueR9d5aFvw",
+            "plus_code": {
+                "compound_code": "9MQ2+MX San Rafael, Mendoza Province",
+                "global_code": "47QH9MQ2+MX"
+            },
+            "rating": 4.7,
+            "reference": "ChIJM4lBwREIeZYRjueR9d5aFvw",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13701
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Av. Bartolom\u00e9 Mitre 5000, San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.62925930000001,
+                    "lng": -68.29068819999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.62787807010728,
+                        "lng": -68.28934097010728
+                    },
+                    "southwest": {
+                        "lat": -34.63057772989272,
+                        "lng": -68.29204062989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Muestra Integral Pasado Historico",
+            "place_id": "ChIJy6StlDOoeZYR-vhNS6tzZ9A",
+            "plus_code": {
+                "compound_code": "9PC5+7P San Rafael, Mendoza Province",
+                "global_code": "47QH9PC5+7P"
+            },
+            "rating": 1,
+            "reference": "ChIJy6StlDOoeZYR-vhNS6tzZ9A",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "El Toledano Norte 2960, M5600 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.5740174,
+                    "lng": -68.3676074
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.57262867010728,
+                        "lng": -68.36637387010728
+                    },
+                    "southwest": {
+                        "lat": -34.57532832989272,
+                        "lng": -68.36907352989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Museo Posada Benelli",
+            "photos": [
+                {
+                    "height": 568,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109220970760544065127\">A Google User</a>"
+                    ],
+                    "photo_reference": "AZose0mJt9oX9O_z1dRwWz1oZe24Rp7NwcLyCHEo0UqL61MXx2SgEbHaBnDV221-iPKOjzye_A5fQWuNcijPEsCbPkAMRCmOAvnaPuYZm3ti7OtfoT1sH21PHvHAmqUzp2_9zF2A7rGwWuwyNEx4eDOrmvVQTtdl02tb7vssgqsAeiVjYnU",
+                    "width": 1010
+                }
+            ],
+            "place_id": "ChIJOz5c-ZEJeZYRoGxpxr-OXek",
+            "plus_code": {
+                "compound_code": "CJGJ+9X San Rafael, Mendoza Province",
+                "global_code": "47QHCJGJ+9X"
+            },
+            "rating": 4.9,
+            "reference": "ChIJOz5c-ZEJeZYRoGxpxr-OXek",
+            "types": [
+                "museum",
+                "lodging",
+                "liquor_store",
+                "food",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 219
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "San Rafael, Mendoza Province, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6129107,
+                    "lng": -68.3304291
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.61134647010728,
+                        "lng": -68.32897972010728
+                    },
+                    "southwest": {
+                        "lat": -34.61404612989273,
+                        "lng": -68.33167937989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Plaza San Martin",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101156527594768207131\">fede marino</a>"
+                    ],
+                    "photo_reference": "AZose0lcvIWCWi4AJplsvmJE-KOi4SQnz-YJ34dhJdo2OV-WEMkznyQjiA6Ace64L_wkVJgmJij8d5pyt8rLmQRIKe6rLaFgUHFGtDIZsLa6KbjxVhmVsf8wEMoHZFRqsQayfl619iUauqguu4-TVGMEalK7By97Wa66T5Wd37nlF4vn91Lg",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ0dBO4fwHeZYRtKWQEqhYuSU",
+            "plus_code": {
+                "compound_code": "9MP9+RR San Rafael, Mendoza Province",
+                "global_code": "47QH9MP9+RR"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ0dBO4fwHeZYRtKWQEqhYuSU",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11024
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "El Toledano 2960, M5600 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6208564,
+                    "lng": -68.3911804
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.61949457010728,
+                        "lng": -68.38986597010728
+                    },
+                    "southwest": {
+                        "lat": -34.62219422989272,
+                        "lng": -68.39256562989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Museo Posada Benelli",
+            "place_id": "ChIJ4VXCsM8JeZYRudQTyVekXDY",
+            "plus_code": {
+                "compound_code": "9JH5+MG San Rafael, Mendoza Province",
+                "global_code": "47QH9JH5+MG"
+            },
+            "rating": 0,
+            "reference": "ChIJ4VXCsM8JeZYRudQTyVekXDY",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "San Rafael, Mendoza Province, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.606862,
+                    "lng": -68.4632
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.60556272010727,
+                        "lng": -68.46178817010727
+                    },
+                    "southwest": {
+                        "lat": -34.60826237989271,
+                        "lng": -68.46448782989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Puente Colorado",
+            "photos": [
+                {
+                    "height": 2600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111233260303472407909\">Ivan Carrillo</a>"
+                    ],
+                    "photo_reference": "AZose0n5GwK1LF2pCtgyUdjAIFFLw-jhxPbQjFMIeNil7VLEdQZcrH02V-u8RdBQdC5NBq_BEp1s2OkwyMpT9nHZKbpMdF0dumrNWIGCT4Jo3jKpaFSQkY6_g0m-_4PGJbhAeO88oHqTlNMGcZVV8jYHi5Hq81s3X6AxOsDbmcg6l4epC1uQ",
+                    "width": 4624
+                }
+            ],
+            "place_id": "ChIJSbP9CU0KeZYRZ-qBbod1AO8",
+            "plus_code": {
+                "compound_code": "9GVP+7P San Rafael, Mendoza Province",
+                "global_code": "47QH9GVP+7P"
+            },
+            "rating": 4.6,
+            "reference": "ChIJSbP9CU0KeZYRZ-qBbod1AO8",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 129
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Regimiento de Caballeria 3370, San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6310862,
+                    "lng": -68.2844983
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.62964412010728,
+                        "lng": -68.28314552010727
+                    },
+                    "southwest": {
+                        "lat": -34.63234377989272,
+                        "lng": -68.28584517989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Cuadro Nacional",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112567264083298008601\">Noelia Alberdi</a>"
+                    ],
+                    "photo_reference": "AZose0lPQnn-eSIYulx291wmjaY7HaXMvTE4zGYAZPOdm4XsQys6WKPH1tFvcvEbE9P9mB3fVIaMWiK4EOqT6nskXbHqguJqBKdJ4s34OtSW6UiHA4xsKW1yDHebjPsFEJZ7ft-JNy0EX5MTUSkpK00vOURrklPLGmvq2WB_1iZg7zm6Cgdh",
+                    "width": 1536
+                }
+            ],
+            "place_id": "ChIJbZ6EscupeZYRaLTL4dTr6zw",
+            "plus_code": {
+                "compound_code": "9P98+H6 San Rafael, Mendoza Province",
+                "global_code": "47QH9P98+H6"
+            },
+            "rating": 3.9,
+            "reference": "ChIJbZ6EscupeZYRaLTL4dTr6zw",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 48
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "San Rafael, Mendoza Province, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.9172623,
+                    "lng": -68.8554309
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.91591247010727,
+                        "lng": -68.85408107010728
+                    },
+                    "southwest": {
+                        "lat": -34.91861212989272,
+                        "lng": -68.85678072989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Museo De La Sal",
+            "photos": [
+                {
+                    "height": 2304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107482390669832191908\">A Google User</a>"
+                    ],
+                    "photo_reference": "AZose0lmUd6bOMfzh6J0k3BxbTBJWmsf6dgKMHLg8HKaoc5-eEFgthrXh8tRYubzL2_02jyajyyQ1Un8HPAJipe50l0e_ybq6hOpxKiAuRWameAOmRcjkaPoTCeClivbxT4XuUH4wjpKPMjiPHLIs7GnVA84h-AfGXxFc2SgAlAbiXoiQz_0",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJg68odfeIeZYRZMSit6GWbks",
+            "rating": 4.2,
+            "reference": "ChIJg68odfeIeZYRZMSit6GWbks",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 707
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "RN146, San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6315043,
+                    "lng": -68.25975129999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.63017207010728,
+                        "lng": -68.25840207010728
+                    },
+                    "southwest": {
+                        "lat": -34.63287172989272,
+                        "lng": -68.26110172989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Army Historical Museum",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112918192255574519833\">mario gonzalez</a>"
+                    ],
+                    "photo_reference": "AZose0kRQiH8RYnmDI1MiuHAC0hMFZKX1VwrkW55Q2ohMo9Sb-y7OloVb8qTU5HtLyDN2y-6TyL1fHP45VD_kYUy4SgNQ4XMiKn7-h6uLScd1wtPuqPQ5mXy5yZzJAHdxm9pLTlltlg_6MhbFvgBz4yGutDVEtuu7L2ejnYIGHUHvg024Z8F",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJXdFGgsmpeZYR782cfzBF5ZA",
+            "plus_code": {
+                "compound_code": "9P9R+93 San Rafael, Mendoza Province",
+                "global_code": "47QH9P9R+93"
+            },
+            "rating": 4.1,
+            "reference": "ChIJXdFGgsmpeZYR782cfzBF5ZA",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 52
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "San Rafael, Mendoza Province, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.5711118,
+                    "lng": -68.2598874
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.56951627010727,
+                        "lng": -68.25918655000001
+                    },
+                    "southwest": {
+                        "lat": -34.57221592989271,
+                        "lng": -68.26192075
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "El Palomar",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113047881795620414069\">luis sierra</a>"
+                    ],
+                    "photo_reference": "AZose0lOp4m7kvgjuPEp0rLUFMmInxXqOC9XZ30YlEmi-2I5eTS_a1nPeXvpjkZbJWI3oEnjA6YpB23fRSw11MaJGcVgEzqbhYzYV6OU3Esjo9gWYC7AMR2NPC77gVIqjc1FH00lEQunyrc1xqbzM8oBf3P3hLQB2KKHq79YPYS14otChUS_",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJE-g3myEHeZYR8Sbe87mYwHk",
+            "plus_code": {
+                "compound_code": "CPHR+H3 San Rafael, Mendoza Province",
+                "global_code": "47QHCPHR+H3"
+            },
+            "rating": 4,
+            "reference": "ChIJE-g3myEHeZYR8Sbe87mYwHk",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11
+        }
+    ],
+    "status": "OK"
+}
