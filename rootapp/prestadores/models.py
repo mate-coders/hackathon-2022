@@ -10,7 +10,7 @@ class Place(models.Model):
     longitude = models.FloatField()
     rating = models.FloatField()
     users_rating = models.IntegerField()
-    code = models.CharField(max_length=25)
+    reference = models.CharField(max_length=50)
     type = models.ManyToManyField(Type)
 
 """

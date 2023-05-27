@@ -1,0 +1,982 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AZose0nRDd8jsX_4bWE3PwZCWTKRnqlTXVC-uUvveH_jbYxCxLk6vYskrd0o9SIshN3Ck4qVWJ726OOyOUIMoDMEL5avobzmG_Jmd3IjX_bbvgwLZtj96ga0bR08t8Uyyg6Xr0J9RCun3ZwzBBKHKDJ0qJRAAnReiC-rxAjCC8T4Yp8qX1um2OCiCs40EdpvrJdQ7CFBTlvn1A3clspym8NxlvXiE_Bfo57mKNjdyIWBOSLPEaLFt0CVEB42eEUvLFuA-u5jUgJrVEqv8yr0-73mvpbetyffJ21qARY13g1DeC5W2Xkb8SaMi8Wdg-WMwMvWGM-WVfSBB0-3pD_u139tWsVpsQdNcvTRZDneKS1xMG0EfDPyd7nizLZvVr_3i0qwj-Koz9Mv97CcqJSS6ScTt32jbA",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Juan Agust\u00edn Maza 126, M5600 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.619241,
+                    "lng": -68.329403
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.61781222010728,
+                        "lng": -68.32801272010727
+                    },
+                    "southwest": {
+                        "lat": -34.62051187989272,
+                        "lng": -68.33071237989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "San Rafael Group - HOTEL -",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 809,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100672537438163520330\">San Rafael Group - HOTEL -</a>"
+                    ],
+                    "photo_reference": "AZose0m4VEOCt5cJwk67GtCbt1Bf5BqL8xVIL_2sj4NEvCDgShaSrpSULq9k_6wU0x8Z9wVzfa1WOxHoyKG91WySgCGo1qFUTwUfeqXL9gv6KCyMs658rAxjNycEYNkW4GjsIog4TFZ96eCmcHeNW_KEA97jd9FtMVFLjH5xcTWz8lA9fikZ",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJORjFIf8HeZYROAWVKFFZiHA",
+            "plus_code": {
+                "compound_code": "9MJC+86 San Rafael, Mendoza Province",
+                "global_code": "47QH9MJC+86"
+            },
+            "rating": 4.3,
+            "reference": "ChIJORjFIf8HeZYROAWVKFFZiHA",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 565
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Av. Gral. Jos\u00e9 de San Mart\u00edn 435, M5600 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6116522,
+                    "lng": -68.3278539
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.61032772010729,
+                        "lng": -68.32642257010727
+                    },
+                    "southwest": {
+                        "lat": -34.61302737989273,
+                        "lng": -68.32912222989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "SAN MARTIN HOTEL Y SPA",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109647311540417461693\">Rolando Bartet</a>"
+                    ],
+                    "photo_reference": "AZose0lJNgiwwEB375injc9kMpdgx8wXtJ9FNi6pkHqvWz6rXw67_bby7TUecSZfl-EHEG_rRYhAWnL5HDk-XFEnfH-TKAQUTXy5B1a7OzuycRa3w6RpaZkct6WReUmiqFtG64ENmF9kFBAZORZFyqSNqo5_5O3HUyadtBIsGbLyu5TE5OJL",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJn-KqoPwHeZYRN0uwF__DKLE",
+            "plus_code": {
+                "compound_code": "9MQC+8V San Rafael, Mendoza Province",
+                "global_code": "47QH9MQC+8V"
+            },
+            "rating": 4,
+            "reference": "ChIJn-KqoPwHeZYRN0uwF__DKLE",
+            "types": [
+                "spa",
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1745
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Av. Ing. Julio Balloffet 725, M5600 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6195949,
+                    "lng": -68.34686789999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.61816822010729,
+                        "lng": -68.34560342010728
+                    },
+                    "southwest": {
+                        "lat": -34.62086787989273,
+                        "lng": -68.34830307989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Nuevo Mundo",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109984549503632303881\">Gonzalo Bedoya</a>"
+                    ],
+                    "photo_reference": "AZose0mUKdmPm8s6DDiylKmIET0_b9D5TWwrHFx_GQIZG7whlKdQeLEMG15jZX3lyQQKz6wgYfjCFdUxs3nVOzDoP3zATHosqTmwvngbJo7OB4QsQHyipLEJhvz9ZQ0hxzBYuQibkgZj-cJgE-sMn-r6qjPxpeXcBNd3aFDYm8LiHEPCX5rn",
+                    "width": 2252
+                }
+            ],
+            "place_id": "ChIJdUdZXhsIeZYRriv0hBtAmRo",
+            "plus_code": {
+                "compound_code": "9MJ3+56 San Rafael, Mendoza Province",
+                "global_code": "47QH9MJ3+56"
+            },
+            "rating": 4,
+            "reference": "ChIJdUdZXhsIeZYRriv0hBtAmRo",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 724
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Av. Hip\u00f3lito Yrigoyen 774, M5600 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6125757,
+                    "lng": -68.33933259999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.61137182010727,
+                        "lng": -68.33805427010726
+                    },
+                    "southwest": {
+                        "lat": -34.61407147989272,
+                        "lng": -68.34075392989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Tower Inn & Suites",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3648,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103296280994612787248\">A Google User</a>"
+                    ],
+                    "photo_reference": "AZose0kxHKlPCGbymI1mgQWqXGpcET89TmeCKQZjtrg1jVqMIENjdJ6HKuubnt3LV16xQmRTZvFRHhmlV0zsOFOQj2Vno69UDg_so0Rb2gwg6NoBjbZXxacpNTeiIY8pSZXB3CRM0auF3e6pQEwbKb0j2JhBVrW_i_8k_TfEO7VuCwufb86i",
+                    "width": 5472
+                }
+            ],
+            "place_id": "ChIJQ2HGAgYIeZYRZC4Db-S7D_s",
+            "plus_code": {
+                "compound_code": "9MP6+X7 San Rafael, Mendoza Province",
+                "global_code": "47QH9MP6+X7"
+            },
+            "rating": 4.3,
+            "reference": "ChIJQ2HGAgYIeZYRZC4Db-S7D_s",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4469
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cnel. Ricardo Day 30, M5600 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6138027,
+                    "lng": -68.32918
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.61254177010728,
+                        "lng": -68.32787517010728
+                    },
+                    "southwest": {
+                        "lat": -34.61524142989272,
+                        "lng": -68.33057482989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel San Rafael",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117556734205585451285\">Lorena Villagran</a>"
+                    ],
+                    "photo_reference": "AZose0lJt3xa-Qs_ZSGk0fkbdMZbJD5yB5SJkfTzv6GtmOHtJYR9HKHVgxiEbWx3fW0iMMDUE6NXVHTA__s6ZQSh307ova8q-lOEuM4m19FkU1dEjbscWJMolvXV2N7_3N3frSPrDB8Gh0ezX4ResYkNhl4_b3rA6hQik0eYUdrlqD9rFnE6",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJDd5n8PmAGpQRlMFrsp-0lXc",
+            "plus_code": {
+                "compound_code": "9MPC+F8 San Rafael, Mendoza Province",
+                "global_code": "47QH9MPC+F8"
+            },
+            "rating": 4,
+            "reference": "ChIJDd5n8PmAGpQRlMFrsp-0lXc",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1385
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Av. Hip\u00f3lito Yrigoyen 120, M5600 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.615475,
+                    "lng": -68.3313908
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.61422227010728,
+                        "lng": -68.33009017010727
+                    },
+                    "southwest": {
+                        "lat": -34.61692192989272,
+                        "lng": -68.33278982989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Kalton",
+            "photos": [
+                {
+                    "height": 2848,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105107033628246391436\">Raul Ruiz</a>"
+                    ],
+                    "photo_reference": "AZose0ndYrEox7X2P7fh237_F52MUC4yU1aYz8SBbHgQlGVCd3ArsNiyIhcsWdcVKQNXSH4_2E5agrfAVXOaId7ikYut_QpUiBZAphTona8SFJlnJLvsJzeJ6ZKUchPY6ZbggsbAOf--DNvsf5vIQdliKHASSZ8WOoFuYElTbPiOx0NGPdRk",
+                    "width": 4288
+                }
+            ],
+            "place_id": "ChIJl9WtHQYIeZYRvm-agzWyQRA",
+            "plus_code": {
+                "compound_code": "9MM9+RC San Rafael, Mendoza Province",
+                "global_code": "47QH9MM9+RC"
+            },
+            "rating": 4,
+            "reference": "ChIJl9WtHQYIeZYRvm-agzWyQRA",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 979
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Juan Jos\u00e9 Castelli 23, M5600 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.612888,
+                    "lng": -68.3385461
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.61156737010728,
+                        "lng": -68.33710337010727
+                    },
+                    "southwest": {
+                        "lat": -34.61426702989272,
+                        "lng": -68.33980302989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Vecchia Terra Apart Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106662760608114005761\">A Google User</a>"
+                    ],
+                    "photo_reference": "AZose0n_nN-3cKmFDKMxCZR1RUY5Z1sAoj5HDXuQbaSTPlews6qQVAdPwz_MS4H0AfwBNXhMdxQ-4PFnpDBJzHg2jLZjGMHepxlWZ-4J5OADdrEGCA1_-CGp03BlcniMYBjdJEQ0MwUOyI6p24ST2lbRHt3vPTJQcXmHzht1dyIOxURGkm3Z",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJPQnIHwYIeZYRB97D8vXXKQw",
+            "plus_code": {
+                "compound_code": "9MP6+RH San Rafael, Mendoza Province",
+                "global_code": "47QH9MP6+RH"
+            },
+            "rating": 4.5,
+            "reference": "ChIJPQnIHwYIeZYRB97D8vXXKQw",
+            "types": [
+                "night_club",
+                "liquor_store",
+                "spa",
+                "bar",
+                "lodging",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1113
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Valent\u00edn Alsina 955, San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6081319,
+                    "lng": -68.3397365
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.60675467010727,
+                        "lng": -68.33837067010728
+                    },
+                    "southwest": {
+                        "lat": -34.60945432989272,
+                        "lng": -68.34107032989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Caba\u00f1as Villa de Lujan",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 683,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102890946854483082670\">A Google User</a>"
+                    ],
+                    "photo_reference": "AZose0nQx0sotOCSyYlYAZ7YQ4eWkIPTbtxFGBvBGvHUNW8OfgoVUy5EdcTErbu0RzddJ12-OADixESfZvNShXmEjOAySR1jZYkOduwHuoubewkv0kQloV_tesd-aORI_iLBmts-tWt_r4oLqQd5XQFFA93iEiRPt1Qx9YCbZpAYhWEb_yHc",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJz-n-QQkIeZYRKpMpkxOcbG0",
+            "plus_code": {
+                "compound_code": "9MR6+P4 San Rafael, Mendoza Province",
+                "global_code": "47QH9MR6+P4"
+            },
+            "rating": 4.3,
+            "reference": "ChIJz-n-QQkIeZYRKpMpkxOcbG0",
+            "types": [
+                "travel_agency",
+                "lodging",
+                "real_estate_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 576
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "CJE San Rafael Mendoza AR, Per\u00fa 264, M5602, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.62268299999999,
+                    "lng": -68.3366581
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.62138892010728,
+                        "lng": -68.33533922010727
+                    },
+                    "southwest": {
+                        "lat": -34.62408857989272,
+                        "lng": -68.33803887989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Complejo Abraham",
+            "photos": [
+                {
+                    "height": 2309,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104726366888385339934\">A Google User</a>"
+                    ],
+                    "photo_reference": "AZose0n8wnBYsYtJqJxJoY0baVTAc5pvY8Qz7s5A6TFI8SUAHcSL2tei8NtFcsqNWwFhxNDw4uaHKejpY5MI5cukvePbymPH5u5vgfheHsWklyFGWubJeNYjt09z4K5As1IbffIBwpwSN-HcZNyaEnWEdv-z3T8wnCnUvEhMzmvktlNT4XkK",
+                    "width": 3464
+                }
+            ],
+            "place_id": "ChIJYXqTjP-neZYRZSV_x7NE71A",
+            "plus_code": {
+                "compound_code": "9MG7+W8 San Rafael, Mendoza Province",
+                "global_code": "47QH9MG7+W8"
+            },
+            "rating": 4.6,
+            "reference": "ChIJYXqTjP-neZYRZSV_x7NE71A",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 504
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "M5600HKX, Juan Agust\u00edn Maza 126, M5600HKX San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6191836,
+                    "lng": -68.3293737
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.61781217010728,
+                        "lng": -68.32801282010728
+                    },
+                    "southwest": {
+                        "lat": -34.62051182989272,
+                        "lng": -68.33071247989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Terrazas Lodge",
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102926509086359063692\">Hotel Terrazas</a>"
+                    ],
+                    "photo_reference": "AZose0lInJfIzaSgBeiO7TzmO_ohbEUwOBTwm8OiGGYGlrGw7maUpi26yHpHL7795rkgPBIsGobxfNsTUo4Q0KWUd3LdEPCsZYkpBh-Da6bOe7x2x56yM95TgApQKl9rzEpFziRFg6cpzsOzeS_CtRXa68I5zLdVXVJXvk69yr9hVrXPMkyP",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJV9GPMv8HeZYRIpkqUvi5NME",
+            "plus_code": {
+                "compound_code": "9MJC+86 San Rafael, Mendoza Province",
+                "global_code": "47QH9MJC+86"
+            },
+            "rating": 5,
+            "reference": "ChIJV9GPMv8HeZYRIpkqUvi5NME",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Independencia 623, M5600AVG San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6226141,
+                    "lng": -68.3231117
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.62131627010727,
+                        "lng": -68.32178682010728
+                    },
+                    "southwest": {
+                        "lat": -34.62401592989271,
+                        "lng": -68.32448647989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Regine Hotel",
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115921530409235426138\">A Google User</a>"
+                    ],
+                    "photo_reference": "AZose0lgD5SBkAwNueRWO8Bl-OOri6aA32xIqzeNm2pwV3vbtDLioGVyn7Yc8kgkfW5eHObGmKJ5UV84uqt1xRom4DKF8NtHvAbKE-GVHyEWkV0rspRc1P3LviJhsRSph5_LeDiSpHm_ZnmZl7mS1XRk3rpt4N4ZJ00Et0zEZCig8178UNPY",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJvWnn5wKoeZYRIFASHPbVfDc",
+            "plus_code": {
+                "compound_code": "9MGG+XQ San Rafael, Mendoza Province",
+                "global_code": "47QH9MGG+XQ"
+            },
+            "rating": 3.9,
+            "reference": "ChIJvWnn5wKoeZYRIFASHPbVfDc",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 921
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cnel. Su\u00e1rez 567, M5600 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.61528759999999,
+                    "lng": -68.33774149999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.61381957010727,
+                        "lng": -68.33633272010728
+                    },
+                    "southwest": {
+                        "lat": -34.61651922989272,
+                        "lng": -68.33903237989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Privilegio Hostel",
+            "photos": [
+                {
+                    "height": 3146,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113996930547562367343\">A Google User</a>"
+                    ],
+                    "photo_reference": "AZose0kr7-ry-35dI3_x0KDLhAhfmK_WufXW4GCJHr3ftoIO3UxDwOUJ58btVK6T_pVKL-M81kT440nTEHi3IIKg9388PuXeGmzyhs4-Ssfbww54ezLW2CJxyiWvTXRQsduwlCa29SsB0Frjvg2awky1-GEHWxwhQ6Ird2dwL--MtrYaru8S",
+                    "width": 1770
+                }
+            ],
+            "place_id": "ChIJCz8GRkMJeZYRpXtc3IVJfNA",
+            "plus_code": {
+                "compound_code": "9MM6+VW San Rafael, Mendoza Province",
+                "global_code": "47QH9MM6+VW"
+            },
+            "rating": 4.9,
+            "reference": "ChIJCz8GRkMJeZYRpXtc3IVJfNA",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 42
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Per\u00fa 1538, M5600 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6158443,
+                    "lng": -68.3507939
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.61453977010728,
+                        "lng": -68.34950312010727
+                    },
+                    "southwest": {
+                        "lat": -34.61723942989272,
+                        "lng": -68.35220277989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Casa Chakana",
+            "photos": [
+                {
+                    "height": 1600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108775445985404190533\">A Google User</a>"
+                    ],
+                    "photo_reference": "AZose0meSeLx5E8zQwILWvsrERivXJpCWVVvYZxVQ62-rDrupH57KmUko_HU7640uqFXfp8qkKU1sPgiGl06HoQaNTg5kVqS6F46tbCDNP3NUebU5RqmC_57ooYGGvOWL-0vb_bXRkq_nsBPaV1BovPh1bPDWBlxRkaaioxr743SIo2RJXO2",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJU0z7MmEJeZYRM_Gx5DcTRNA",
+            "plus_code": {
+                "compound_code": "9JMX+MM San Rafael, Mendoza Province",
+                "global_code": "47QH9JMX+MM"
+            },
+            "rating": 4.8,
+            "reference": "ChIJU0z7MmEJeZYRM_Gx5DcTRNA",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Narciso Sosa Morales 721, M5600 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6043727,
+                    "lng": -68.3392657
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.60302732010728,
+                        "lng": -68.33790137010728
+                    },
+                    "southwest": {
+                        "lat": -34.60572697989272,
+                        "lng": -68.34060102989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Blu Apartments",
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111768236846954958901\">A Google User</a>"
+                    ],
+                    "photo_reference": "AZose0nVGQF4cbZ6MduPcFK9tzzM02h9CpCv5T2dd2RwckLPim38YRnBCeT7TSec6aMplrs6HIZH3HYXWLqORaYAaWU_g9Dll0zM4eOFkM-RYKiXd3ANUb6-dveo7CneZm8g8q8Eq5yOUa54bkRpD9Y3yoj7uCLzIHkjmehtHIVSM10srBbv",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJfRrlzckJeZYRQTdFMhmmSZA",
+            "plus_code": {
+                "compound_code": "9MW6+77 San Rafael, Mendoza Province",
+                "global_code": "47QH9MW6+77"
+            },
+            "rating": 4.6,
+            "reference": "ChIJfRrlzckJeZYRQTdFMhmmSZA",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 83
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Gral. Manuel Belgrano 44, M5600 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6128206,
+                    "lng": -68.32903999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.61148992010727,
+                        "lng": -68.32770002010727
+                    },
+                    "southwest": {
+                        "lat": -34.61418957989272,
+                        "lng": -68.33039967989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Dali",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 682,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102153838574621147402\">A Google User</a>"
+                    ],
+                    "photo_reference": "AZose0n-HSut7JMfFqpHQk3aOlKDngOqCQZuynlEV0KIyzg8Dp95XTKGUKP5G_IPFQ7_6gzvo3jUWX9DWcRtVMfrcoZpkkS4jDZKWMvmsBX0xFHvJhhYGai0j_a7B-o1hkFO0NLf1_TtODdi5t-7-vwk8vvJ0OKkzV01k8WyAOmrPqNkSUD6",
+                    "width": 682
+                }
+            ],
+            "place_id": "ChIJZRkfkPwHeZYRWuJ-sN_WXoM",
+            "plus_code": {
+                "compound_code": "9MPC+V9 San Rafael, Mendoza Province",
+                "global_code": "47QH9MPC+V9"
+            },
+            "rating": 3.8,
+            "reference": "ChIJZRkfkPwHeZYRWuJ-sN_WXoM",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 580
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Francia 248, M5600 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6152505,
+                    "lng": -68.3258408
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.61385012010727,
+                        "lng": -68.32446687010727
+                    },
+                    "southwest": {
+                        "lat": -34.61654977989271,
+                        "lng": -68.32716652989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Hotel Francia",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1360,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107739761736741755235\">Hotel Francia</a>"
+                    ],
+                    "photo_reference": "AZose0k5srwwuidr-PxBAwYL32cbs0nveDwfzidMk-sH_l4Hi4lbuKA31AwZe3GXg9ma1_Bph_nX8-VNqpLi0iPAyH12s_88DekvCMFsOd2ZhgIXqgF1oM3E6vyV4B_5IZp8xhhO-KSymwW356Nys3zYJKL1Q6qCBTppaqEPJJsQ0U9EHXwu",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJAc3GxPsHeZYRlGzVE6Omh2s",
+            "plus_code": {
+                "compound_code": "9MMF+VM San Rafael, Mendoza Province",
+                "global_code": "47QH9MMF+VM"
+            },
+            "rating": 4.4,
+            "reference": "ChIJAc3GxPsHeZYRlGzVE6Omh2s",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 837
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Teresa de, Beata Madre Teresa de Calcuta 2475, M5600 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.5826341,
+                    "lng": -68.34598679999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.58101892010728,
+                        "lng": -68.34457347010728
+                    },
+                    "southwest": {
+                        "lat": -34.58371857989273,
+                        "lng": -68.34727312989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Posada Boutique La Barrica",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117220137874556867127\">lorena di costanzo</a>"
+                    ],
+                    "photo_reference": "AZose0k-wKOmUrWBzr_cbl8Llkx3uTW35a8q4F31_H64XJKRfTmdknBahD6SyE-qEwadbyTwqnDSn-p8n5vYTlgUGQZH5ZepUakadvAi-4NctT7NV929rLYfFZ605dC97RD07_VNeztm4T0FE3BnaOpgZWj2-N8rAmKQG6rrSptAeb9mnrqs",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJnZVO0jIJeZYRgyCyJgYhmwU",
+            "plus_code": {
+                "compound_code": "CM83+WJ San Rafael, Mendoza Province",
+                "global_code": "47QHCM83+WJ"
+            },
+            "rating": 4.7,
+            "reference": "ChIJnZVO0jIJeZYRgyCyJgYhmwU",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 137
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Av. Hip\u00f3lito Yrigoyen 3003, M5600 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6043526,
+                    "lng": -68.3669869
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.60274597010727,
+                        "lng": -68.36551257010726
+                    },
+                    "southwest": {
+                        "lat": -34.60544562989272,
+                        "lng": -68.3682122298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Suter Petit Hotel",
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103549859691200730352\">A Google User</a>"
+                    ],
+                    "photo_reference": "AZose0nKj5tXSH3pnb3hvnG9mI7zI4HagKi9wJxRKatiUO14jkk89oStx5LyKI5czcPysXflfBUL1vxhIkEKLuwWRDswulzw5m2cJtvHMknoxJapvPZShbhtKEsZbf9QNce3DPJIRQn0DXULsTNJ_2mauW20i05NYgROQ2XyP3QhiVGEhpBv",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ4cUXUA8IeZYR29JCw9yO0hc",
+            "plus_code": {
+                "compound_code": "9JWM+65 San Rafael, Mendoza Province",
+                "global_code": "47QH9JWM+65"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ4cUXUA8IeZYR29JCw9yO0hc",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 337
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "San Rafael, Mendoza Province, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.625285,
+                    "lng": -68.3558075
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.62397182010728,
+                        "lng": -68.35443887010729
+                    },
+                    "southwest": {
+                        "lat": -34.62667147989272,
+                        "lng": -68.35713852989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Talu Apart Hotel",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111413562137345024317\">ramiro ruiz</a>"
+                    ],
+                    "photo_reference": "AZose0mUUKFyuSqDH4_NwhkN_UsliTXsDHfFzYXFjaJ0c3E6OcF_TUGwJ743U3xm7WZrWilTZrxY-8HIgNXbCVH2M08Lxvp_RsRCSJyjWatDCVzwgbXMtTmajU0ckbOGYbarqvRV3EuBFgvZNJziBY31qurIEUrAX281dJ2SakZpJtR8kKSr",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJl1J7xx8IeZYR746x9mgrymY",
+            "plus_code": {
+                "compound_code": "9JFV+VM San Rafael, Mendoza Province",
+                "global_code": "47QH9JFV+VM"
+            },
+            "rating": 4.6,
+            "reference": "ChIJl1J7xx8IeZYR746x9mgrymY",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 231
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Coronel Luis Mar\u00eda Campos 30, M5600ATH Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6232241,
+                    "lng": -68.3321479
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.62188677010728,
+                        "lng": -68.33080442010727
+                    },
+                    "southwest": {
+                        "lat": -34.62458642989272,
+                        "lng": -68.33350407989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Divina Casona Posada Boutique",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111317114498364297525\">Federico Ferraro</a>"
+                    ],
+                    "photo_reference": "AZose0mPVPEOXsHqIPFLxtCWJlGqE1axXv-yfu4LtBDahV2KaxUKRm9xDZVf2uniosZChWhPTTdBO9Hv4a_9cGFRN29W-rWvw43b4v46IuUjPnhMrf-X6hubR6xx8nazTQFF0mfYOS0-CtXHRG3RtOdVtqEC7qjrS4HEBrv0rJ2Q19ukpu12",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJcdvcPQCoeZYRZm9p5NX0qso",
+            "plus_code": {
+                "compound_code": "9MG9+P4 San Rafael, Mendoza Province",
+                "global_code": "47QH9MG9+P4"
+            },
+            "rating": 4.9,
+            "reference": "ChIJcdvcPQCoeZYRZm9p5NX0qso",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 128
+        }
+    ],
+    "status": "OK"
+}

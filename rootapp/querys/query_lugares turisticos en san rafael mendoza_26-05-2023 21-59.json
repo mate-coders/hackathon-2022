@@ -1,6 +1,6 @@
 {
     "html_attributions": [],
-    "next_page_token": "AZose0kMAor_XMFO-9DKIttiX-8UlSe7OHBDTU6eEKye_7kwhHtz_h9-zi74MeQyQrnqR-9qEmoJxpiGkG1UjbOc-8dsINr61MoX5mFSVdM2o2AUbyjlmiBGOl4b97KP17pI5rEmosnMDtAIyrX1LUM71M4Ha8uF5skBqtOxSYFbm_Be1FRb5o30To7xU9E-z4nXGXkTBaAMep0-0ztF69RqjGkKilhlT7yGZZFWLZ0SE5U-0vUQNM1PQ3XwsQT4cmgdwuQcUtpnXFk-uXcbwR-WUX0kP5SpdzyFE9CW4-0xo616sQAIhH_su92igOCgVQgv2etgzFJY0doyt1882xnQWcs3IASTnJ8dlyY48skAdCw9U8nYXkxLYZ9fVaKzUiqlFx-_Q54ezR5tLZAVjhX89UQCaEkPV6Eci2H1NVMJvJ9rdBxSyJs",
+    "next_page_token": "AZose0l8Skg8G-wmMeWg7KkrG8EIhS-bmRnYY2kMDkvskhLc9XWR08XiFJp32tppI-63D2f4cdg-bQJhrHGl6Ya4Pw6_buBr8douXT0n-qsxoI8lPSuNLuCpf1C8U5TMYfbNTTeUV60spiMD1L6IktBSJemLzrJTS4ROhBsRkKus8oD8yOvI6rcBjMbS8Yuv6TKNurs2Uq8_3jLDYQ3nDuZ-bEbyf-o8nlymELp1n0QpDxXC-VQkK2TiBRk7JJLXfF0pPQBKd4hVudaCwQVXIEZlFoIXLyEh3fvvhnezGCIjCG-1IbHNpv4ujXfPAzdD86LNxxR33WU0USMlLJJpmKXFuEDA6R3ezMb9zOxTgwgAWml4LG2WjqgROlx4i0phkhVcRy5-5EutEwafefL_g8vIGb3NzzCNnfsr-CtZciCmQDmZy2y8ldA",
     "results": [
         {
             "business_status": "OPERATIONAL",
@@ -34,7 +34,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/105817578944685492832\">A Google User</a>"
                     ],
-                    "photo_reference": "AZose0l6XI-SZx0-akPeCjcNza0EWEEBkjZFHt0K14Y_BNixgH54o65UL_p9zfq6NOQiKxQbDhXxdaNkjmyvQHVYP-Grp5J9qkYmS515mDsN2t7oR1ILNloreLvxqAZ4tY8EF4c2jT8cINWe0jan0y4QPbesAdnL1i2JvP2eA_Hq-SHtwZCg",
+                    "photo_reference": "AZose0m0Zdx8aHAVg4xJ80qWF_7gOxeCXp2uYgz4laSckgHVcKWlUEXKU34rOQa5yJKzQUHnDoaQ5bL1psLywf7E4o1k3UPMaO9qMYQ-DX15NsN2_msPbPE1ssv62Z_KUkLfgS3RpNT0iOdTed_1rRAkjyFQJLyNyijxsjbygAKgE7FEqMEE",
                     "width": 2560
                 }
             ],
@@ -51,7 +51,7 @@
                 "point_of_interest",
                 "establishment"
             ],
-            "user_ratings_total": 11016
+            "user_ratings_total": 11024
         },
         {
             "business_status": "OPERATIONAL",
@@ -85,7 +85,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/117436522769406738010\">A Google User</a>"
                     ],
-                    "photo_reference": "AZose0nG1EuS0DATktB5OJG2AM7owMEtcBtLnWYJx51yRGGOsVgYIYMJCkKUUjpVKGysNTK9z7-EegreIQrSwkGFHwzTLhTiNAKiT-4xR8UH4VkcXPm7NpvXsf_bkwBw3AEeHohPMurIMnrAd3_qunr7xGgFQo6mxSlpXBNdhpSPCMo5-9Yr",
+                    "photo_reference": "AZose0mf-TCpYmLoDgLQotYZa_JRszyI2OfzHHceB8OCdtwBgn--7vb9ojNEBDKlAhQuSnDKve79FyPgArg9pyujQeCp9FrlRC4E2JmYcH0zCRIjl5fRajdWnS187NZm5UiFcape7TuVC-h6eLE2Cyk7lCMSarSGPCn5STBzU2aiceLaDHl7",
                     "width": 4000
                 }
             ],
@@ -102,7 +102,7 @@
                 "point_of_interest",
                 "establishment"
             ],
-            "user_ratings_total": 13701
+            "user_ratings_total": 13702
         },
         {
             "business_status": "OPERATIONAL",
@@ -128,7 +128,7 @@
             "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
             "name": "Museo Ferroviario",
             "opening_hours": {
-                "open_now": true
+                "open_now": false
             },
             "photos": [
                 {
@@ -136,7 +136,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/104547900734004606423\">CLAUDIA ANDORO</a>"
                     ],
-                    "photo_reference": "AZose0mNVad1lpGwzPCudgtBc7zhFmYD9forzTuej9tkfFVlgyPWgCeFwak5ab1Yh5wos32hHkkvVAdvITa6yGKpBegO7oCHxxa1heYTWz2xDPmhAONDZO23QedxEQrBetXnKCMl_sdF3J1NpTgemsxCIRUGm3oOfp9X6gW_V6uRIWUcj3PE",
+                    "photo_reference": "AZose0mY5CTlUZwcg-GwCDGfq4x5USCWodBjMT2h7os0ucXfL3gcZjEx5MWaO0zPzx6iXG4oC-iG5aSJijigmAfMzvh_iKhb5Pk4My6HKEteli5g4nqhrMEWRqdX8u0rNYxNVlHnZrI1L8Ets2VTm_5ifkyRTcqX7mFTNXLcCq4TqcT0AP34",
                     "width": 3072
                 }
             ],
@@ -187,7 +187,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/109130431398582204304\">Gustavo Cambiaso</a>"
                     ],
-                    "photo_reference": "AZose0nYpU7qPBF_2_d0ixxdiqLV8MJ0fgKBDY-zV0wPPjm65LLH6luaMC3VnKlFpwuzDuB3hnDrb-kxUDM6fNRHdLzsSeBFhIaQMxzmAWIY0jeSO6BCQmayBEyAfZkoYM3qXPONUE1u5gsCjp0frW2DPCL_Aiuj2ODjSIUrBZVSrFOISoMJ",
+                    "photo_reference": "AZose0nPr77LQ12MhWxwgAwuRt84Lh6eByquCi7_7kvEA6PNZNJAhLNV3qh5GD_NcCaqadAh1C5BqAppjE_RWAJBVojzj5y1MGFzp_JSySKDcMudZEWHMiSqDzoMXbngevdQfrpSvf9B0uYu2E6QqR0fFjv4xLYWLW6we6uOnvc27RVnrN3c",
                     "width": 3024
                 }
             ],
@@ -199,12 +199,12 @@
             "rating": 4.8,
             "reference": "ChIJaSErcREIeZYRtnbsCGvuX7E",
             "types": [
-                "park",
                 "amusement_park",
+                "park",
                 "point_of_interest",
                 "establishment"
             ],
-            "user_ratings_total": 6895
+            "user_ratings_total": 6902
         },
         {
             "business_status": "OPERATIONAL",
@@ -238,7 +238,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/111643892100907233804\">lewis medina</a>"
                     ],
-                    "photo_reference": "AZose0nOF0VsIKsT-7MJjm9sYvvXtG0At0RT_KzsrscJg0w1jDuom3D0Uq-WLwGJEaDuFqdaNENOIfskJnIR8rYPBuueGDiAeNtXFqDHbbBOOKMGduVs6d1HRLZvglEPbWxaXlMRTdtBqGY6GN1EK2jkJvl6Yak11tdFixlOoRpKhljFxBZ_",
+                    "photo_reference": "AZose0lpdfPWibGemw9NMwkgw4kVcIryWOH5cWIktaFbJZ66ZY0P3270nQ_DgZ2H_tRAdThSJyLY2g5aaf3u9ffzCd7UXwdKBmWuTzn4Vk7IsC1vzFhxrwM0qBcYbwWfM_NtoCFfAN7UP-EYTxooYYlM3heSD5NCUWok3oocdx7IhKIRMCHb",
                     "width": 1359
                 }
             ],
@@ -282,7 +282,7 @@
             "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
             "name": "Oficina Kintun Expediciones",
             "opening_hours": {
-                "open_now": true
+                "open_now": false
             },
             "photos": [
                 {
@@ -290,7 +290,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/103201613079975000891\">Haver Mauricio</a>"
                     ],
-                    "photo_reference": "AZose0kZxWvHEJ860IcYx8CPPAjkfLzfNUycIyBxmguf9BUSKEQu35QBYCencFM7IwEs3UFFrlCuKJgIQuGKwo85kOXhmj4-REIBEPhKxtbO78okOB0wZeVQbwq9bOTkQANEfKWYpOt5YLCa4sETMGF2npYe4P288epUQZVg1a9IEva7Oyho",
+                    "photo_reference": "AZose0lxuaOBLU52JAbWRxcGuFhLUNhPgMsCW_7a93DbNptLlUC_6OJ1GaznDgZ7-coUOGY41X3YfLtViF2PM32TPAXM2mjMZGdWW7e8VtkVg8EFe1sWD1djSUCJZm9UQ7t4MnppMFuxmNIrYne_o4g5avKLQB67Infd7rkhEzsL08epGAbw",
                     "width": 3024
                 }
             ],
@@ -340,7 +340,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/115676489987054119695\">Silvia Rihl</a>"
                     ],
-                    "photo_reference": "AZose0kdvysh7dKj_kLDMD-3TFVONj_xEfF_dTN95f0jMyt8LGr8rLKPpV9T6od2WPQsZnYMGENn_FF2wdvCrCsN8wmcyVyS4dM59DOWNabJ7DeLiKexcWcwJggBMuUZbG-1JpI_sZceG3gWQPHyEB7fJqBBsfh8mK7CrUHU6ejLF3towXzr",
+                    "photo_reference": "AZose0nMGirGKn8doJQxJtcDklGv5sUjy4fWL9CiZBgbkRFsmuaoWyxWO2eOavLvc3zCjb1lQyHzlxKxVGJW38VWKLag5N38a5aEt0e4xtY5O33p7ScF04Hg-22ZM-LU6t19nJtXsrSKPdDqW3k3cYZ4nBExUF8rm0Kdf18zgmgTTxAffcTk",
                     "width": 1348
                 }
             ],
@@ -387,11 +387,11 @@
             },
             "photos": [
                 {
-                    "height": 3000,
+                    "height": 1800,
                     "html_attributions": [
-                        "<a href=\"https://maps.google.com/maps/contrib/111730801707279361704\">Gery Aguilera Rojo</a>"
+                        "<a href=\"https://maps.google.com/maps/contrib/116183125315646981716\">Stella Maris Fernandez</a>"
                     ],
-                    "photo_reference": "AZose0kZCyqKsDJ9p8VE4i-ULW3xQFsRniM8X9-YrET9HywFlAturcK1ta3FXy_cG6HH4_ra4RWF_hhp3u-kFWFzW6ZTWhgsBTPIQ6xRUxgrRvr8joLJAdGZfaYT4fVy9BqFjX3q0oSbTXQi1O-ctRh6U4G4W1Dg7CNsnJfgwz4gC-hvhkyl",
+                    "photo_reference": "AZose0l5rFEVG3b3o6emCV9WhXSxJmIg1zk6g9ToGaC-ESUCTKOJdBxovYVigBh1CoiscuUhyhpq7EOhGGhmCGKN0ohGfukjzwnTQz1EZfUO-B7Vki0_je-lgTntdwTv6oPSNNJZyDDvHGzIVcYGZTLkxBvOky3Bq2wOFARw7hsMoqKi2pr2",
                     "width": 4000
                 }
             ],
@@ -407,7 +407,7 @@
                 "point_of_interest",
                 "establishment"
             ],
-            "user_ratings_total": 1157
+            "user_ratings_total": 1159
         },
         {
             "business_status": "OPERATIONAL",
@@ -433,7 +433,7 @@
             "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
             "name": "Villa las Tinajas Archaeological Park",
             "opening_hours": {
-                "open_now": true
+                "open_now": false
             },
             "photos": [
                 {
@@ -441,7 +441,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/110790758612747579332\">Florencia Moralez</a>"
                     ],
-                    "photo_reference": "AZose0mfSVt901Uic9fh5Fw1SRomdt-kOl-0Kg6V8SRI1vz74aE0Egq7J9zor7_UTWWNvx0ZX40UVeEPZd4CUojlt_kUwSgyiNeXpkT0wZvhPmUTmgYxCy9l0OmSlBgA3xg92Ve1ka_n4OBcY0WIcsnplxswOf7d8NmARJJIT8QMB07mWbPF",
+                    "photo_reference": "AZose0kfLdDpnIMwBftJRpbpT_tOcH0me4gryUmyyR6D7kFe2hu45WdytGlnZ7RPH9hD1V1nErbTUv4T0JlSGRCg3juCXQKAwMr1iyDMOiVEYT82dsIgXXSKyauKWVuNGi1Cn-J2vlyz8GibVVIwxrkO6Yu3IBdVs0LA7lleebmMb_bvEgCf",
                     "width": 4096
                 }
             ],
@@ -492,7 +492,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/110746669877131170212\">D-Barker Nascr</a>"
                     ],
-                    "photo_reference": "AZose0mA4O0J86VhzuC4S2AyMgKEZMU6CAUSVKzX4gfoXxX4B5darvJPNIIgYqrY-KY4ObF3m2sLs6rLfScAaKamTDpLuU38NZZesxceIdT2VoanLyHsYLXQVuIoCJPLxfaO54RBIKWtN9dh75PubE82NblbGqQIbs1JbZMH7F7oLM48Mfmc",
+                    "photo_reference": "AZose0lxMbdDvMJFYKt7jMAPhx5VZMr9SOA4B2I5zIl-x3V0QfbuVvQdDWTbY_rhzyJT3QClCZUrqimmMYOdhE9xfNJL-RAuoZi3SFJwF3KZc1mMIrNfubAR6owtAfeGEaCp2B9S01lnzeXpWxzhGSrLHDjO3IXzbi1-AjMqfe1mhHoEwyg3",
                     "width": 4000
                 }
             ],
@@ -509,7 +509,7 @@
                 "point_of_interest",
                 "establishment"
             ],
-            "user_ratings_total": 1674
+            "user_ratings_total": 1676
         },
         {
             "business_status": "OPERATIONAL",
@@ -543,7 +543,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/104994398947274802224\">A Google User</a>"
                     ],
-                    "photo_reference": "AZose0nVePQI5yggoS7n6TpOv4PCgcd4HhI2YIhljslgLOTT-pmxA6pkQp-OcBb8qm0g1scU8jYFsc6k2BO60Mxh0KgBbjbai2PUnMZyTI1iV1UtXtUYq8WK9x1-qCoyZFQBywQVIrEn7MfqmRk2kdjRXURG7XHbmslRAMY6uayT5gU3U_wg",
+                    "photo_reference": "AZose0nNATE2vdOecRpb_UgNAAZMaj9GlEpoJ-G3BX1Ax9JXRVt2ACoNXT7p2_MtGkYuuZaTPipSugr0QxjxfXkCEW--LS22tcBoPgeosAVst6TE7AASqAPBg2H7mr2cUPOHYcfluIeHGpVxbhT0xV8nyaP3wXTFB1gFzejKLUJOQsNmi90U",
                     "width": 4032
                 }
             ],
@@ -556,7 +556,7 @@
                 "point_of_interest",
                 "establishment"
             ],
-            "user_ratings_total": 3049
+            "user_ratings_total": 3051
         },
         {
             "business_status": "OPERATIONAL",
@@ -590,7 +590,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/116556183405450290810\">Lukpo5215 :D</a>"
                     ],
-                    "photo_reference": "AZose0nlcsaN_rRa9_2869CHrDPwiUHGeHDR4GuYORphV-t2Vp6GPX8wTvnBsF_fUbVmry_hI7aDvEK4RS44GJn1heAN0rjmTa-qoS46l21H9_MFS8j_41U1JoHdWYWFydi3ShPt2wajr-NAzsTYkXLY7ZLCkcWwb7Q2WhOeZBTcjbTqlGEH",
+                    "photo_reference": "AZose0mdW2AuoOejDTxa5bl6dXgDyZYxUGLH0PPM18P2WAT5VbDNGPSlV9vaKN2-GIapZ9G2tF2tXp-b-eP0iDKsikBA-ydgi7EG1MXMlT-wD8RnpgZXwDV85Be7Pbq35FNH0exqhjzUVRKdcgCEt1QwACQFiFcM3AW2EunZF7woNCjMflz5",
                     "width": 1280
                 }
             ],
@@ -604,12 +604,12 @@
             "types": [
                 "tourist_attraction",
                 "liquor_store",
-                "food",
-                "point_of_interest",
                 "store",
+                "point_of_interest",
+                "food",
                 "establishment"
             ],
-            "user_ratings_total": 3534
+            "user_ratings_total": 3539
         },
         {
             "business_status": "OPERATIONAL",
@@ -643,7 +643,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/112161981219539542836\">Mauricio Arditi</a>"
                     ],
-                    "photo_reference": "AZose0nXQrhjc2XQ-HrNNjflfQSfNMsmT02hoadpcFjuPfk6gijbmBM6gOTZkDPxjHPbM6XuQ-Q9FZe1VzRWSsxghU9-rOhFJc9LIdkVOmAAj8D41SiHRomaaOd_RZecQnKQogA_Kw9wzXkqDEVWWqxkjUs-cJQuggY4M4vXkB2S6x9sZs_5",
+                    "photo_reference": "AZose0lP43Yb4rgZUoodrH_2G1RHfGFutJ2g_2PNi6AGBWpiBiHy3VLJZ8vgZv1X3GmC4lM6FChBCE1U6G8b0cGkbs8rBpmubEz7c8OHJ-PwU7_VDiFJkE0Mvi3o-G3aMn6pqLLAIQuivs2UWygZaFuMvH-2btsY_UASL06P0uubFPobC-FG",
                     "width": 6240
                 }
             ],
@@ -693,7 +693,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/107902456368842365253\">Ariel Garc\u00eda</a>"
                     ],
-                    "photo_reference": "AZose0lbVeONzvn-ZLFRwarhDM-UlP9M703hgVYWsdTJZja6d4D9vpJkj0idNh35SXcCDKC2wqSi7P9jouJK5XKRT6cbtLr8Oyd88lDe_2GezP-uAfpiJ_ugndvr-NEFneOCkoDnV4MUQQIpVN5mlL5GTa-vp3ldfUscFKhYgxhavO2Bfg84",
+                    "photo_reference": "AZose0mPXt93_sGfpzldqMvI_PxtteqoH96fkbWzGcM47CBkwnIXEPGj3xnkph08q46nQyGchNdjbMBwarYRnEWnFSSnandGyqhTdZ4AXBa_cgoAcKp2YC04b_t3Lpdxuiorb5EiPi6Ec_Oj0vGbtQTo-dM05VSKsMrJGqRZe7Wtf7OwBY6d",
                     "width": 4128
                 }
             ],
@@ -744,7 +744,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/115555136806167856610\">A Google User</a>"
                     ],
-                    "photo_reference": "AZose0lZgqk3VYiKBiZMANF3QGkNn5hcbRXacdW9UMSZeezVWCXYNVzA8ldCvv9q9pcyWOyJ6LAxZKUE0pKB9i0RUAXgbc6LAieCw2vap_T1THiEuCDvMrAi95sWdTnyygTskESJ7rezZP6st8cz8argLYoCi8u3c3hns6VEkqt4_XJH4bXB",
+                    "photo_reference": "AZose0lGy00csWRK4zdonxbUW9N30md-NkL0Dieqk5vXeCQeBbyaUxZUXuEuCAkCcIA0AsIuXseIKz5AaI5102ztnog0kOT9Tr9PtMGhANDmkRZGtxjYykrWnXhXpoZyuWqglf6x8cPvPbwSzQSj9SE_2-BR7yNE1HYtq3OiRAFdSltVEls2",
                     "width": 5568
                 }
             ],
@@ -786,7 +786,7 @@
             "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
             "name": "Excursiones Ahora",
             "opening_hours": {
-                "open_now": true
+                "open_now": false
             },
             "photos": [
                 {
@@ -794,7 +794,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/100378510815351103299\">FACUNDO ESPINA</a>"
                     ],
-                    "photo_reference": "AZose0ntRaly_Gip1O8QBK9eMsdMaPGNupyKdV6jpBYfAS3-3EnJknT5DJG3U6-wBgErYn6amTSJ0mOMAFmxpaRDk5E7O0VqKRrUjbg1JXfWsGVsmkZk5wJghJbtN-UiX6fKAFsdJ6l2K2ySRAZjaW66r6X-Bj-fj-5WrrxUhGnQKY6c030m",
+                    "photo_reference": "AZose0mjhZTgRTBJF9Srp7cgba-uXx_hcu5B123p0CICeA7DdojP5gZ-_M7xD7K9jA0DCpLI09DvZGo6wsKOZtkyDExnWntSEEmKSJ_GzG2CDvORH0KmKfssx_hGOTAO7QFr7yNlTVWKO4HzWjTjp6tKS8j1QYhOHuJUp-Iq64UdXzlK3tJX",
                     "width": 1440
                 }
             ],
@@ -837,7 +837,7 @@
             "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
             "name": "Old Winery",
             "opening_hours": {
-                "open_now": true
+                "open_now": false
             },
             "photos": [
                 {
@@ -845,7 +845,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/117046535492669925135\">A Google User</a>"
                     ],
-                    "photo_reference": "AZose0nDLo1NqSGwaDpfuojcF0e4U7dajmVhqalCK-2HFhIOcLaj_oiUBkRYVe0LDKq1hfrQQ443z-tHb3uH3zwNwqHAeqxFZyW1N7DyfaPjnPS27SMUnKmhI8pV2X4zWcKfKzJDbBigxaY0iJb9KqOCja-Inq-zyfTont5Z_Rr3MNO4p2Ek",
+                    "photo_reference": "AZose0kr05GAQO3ZEBUKmwwLn-uD1iJAPbLlM6-5Ro-D5Q3A88Mt-AhLMo9MTJPEAI7jVxhNnXDKgIB2S_9ElcknhOAQDN5_ugbCaq_760v152jTWB4OdneAFCTgmYT_WE3QWYf0nkz9dD9-AbBtvhggtY7A4UTce4cO5j_bwx8xenm5HxZz",
                     "width": 4000
                 }
             ],
@@ -859,8 +859,8 @@
             "types": [
                 "tourist_attraction",
                 "lodging",
-                "food",
                 "point_of_interest",
+                "food",
                 "establishment"
             ],
             "user_ratings_total": 1207
@@ -889,7 +889,7 @@
             "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
             "name": "Borges Labyrinth",
             "opening_hours": {
-                "open_now": true
+                "open_now": false
             },
             "photos": [
                 {
@@ -897,7 +897,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/105400309973716096275\">Marcela Alejandra Mendoza</a>"
                     ],
-                    "photo_reference": "AZose0mKQuJh3vnuK-yygrGckBr90OFqgP1RyCXU-gzciB09BVXGj0w_rn8s9Q82QDbQr-3MdUfxGJaJruHP2xKDjtnpd3BeU9pAuKbFFqoDsBf-rmf2vXRwTJ4GFZBSNZ8JQ5VagoFZqGXMFfmfG5m0-Wfgvu6X5Hd18WwUQ9XYQp40mzMC",
+                    "photo_reference": "AZose0lZplT9gLLsEARl6NaqdZG0QHlKcRekXf1ZN06fj2ILYOg9jaBXeGqw3FAR9QOt5DiEMTOYqhUTC3kY77pbBD0DXOwJ9NANABoh-hzqnbEMcfGXRedxP8MICeavmQowyQoeyaHrJLxRIAeyTniu2ccw9JZqTCtV1cYeklmSqw29SoJu",
                     "width": 4032
                 }
             ],
@@ -912,7 +912,7 @@
                 "point_of_interest",
                 "establishment"
             ],
-            "user_ratings_total": 14038
+            "user_ratings_total": 14046
         },
         {
             "business_status": "OPERATIONAL",
@@ -944,7 +944,7 @@
                     "html_attributions": [
                         "<a href=\"https://maps.google.com/maps/contrib/107786462297950408276\">fernando perez</a>"
                     ],
-                    "photo_reference": "AZose0l9wo-Vn3miKxqmqNG8d-gJOd9Cqrjcd10wWUQfpfa9ehgJ6F3j3tGCotyHptG26MGTH-zpOyHuChI2YPYbTfSYBlU1T9za1GWypZ2-KJ90l4J0JbMAV7XczlXYTco9pDCeFFYdp3aS2p8qHSfD2C91nHqLHZgR4G7DSWDkfUw9aT7i",
+                    "photo_reference": "AZose0lAkX3tBMSVcik2XwaRdlTmm4bzOrcxvPGqwJfJvWkZqbJxV1-k0yHq1BGCsluAnBAVr210xkJsA95YNeWmflPQ1BIaryF_QUHbrk8aYANmcogGJQ5mJtVDxZVn3SFFnsv2P3JXPg85xGDY2obOJHMkV0aenu7B7Vzjc87t5e1NsTVS",
                     "width": 2268
                 }
             ],
