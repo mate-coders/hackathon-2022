@@ -27,7 +27,13 @@ class Command(BaseCommand):
             if ex:                    
                 continue
             
-            place = Place(name=result['name'], address=result['formatted_address'], latitude=result['geometry']['location']['lat'], longitude=result['geometry']['location']['lng'], rating = result['rating'], users_rating = result['user_ratings_total'], reference = result['reference'])
+            place = Place(name=result['name'],
+                          address=result['formatted_address'],
+                          latitude=result['geometry']['location']['lat'],
+                          longitude=result['geometry']['location']['lng'],
+                          rating = result['rating'],
+                          users_rating = result['user_ratings_total'],
+                          reference = result['reference'])
             place.save()
             
             for tipo in result['types']:
