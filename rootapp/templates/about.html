@@ -16,26 +16,20 @@
 {% endblock %} {% block section %}
 
 <!-- Breadcrumbs -->
-<section class="elementor-section elementor-top-section elementor-element elementor-element-c08a283 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c08a283" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;video&quot;,&quot;background_video_link&quot;:&quot;https:\/\/www.youtube.com\/watch?v=tJ1OFB3Uyrs&amp;ab_channel=MusicCardonNoCopyrightmusic&quot;,&quot;background_video_end&quot;:30,&quot;_ha_eqh_enable&quot;:false}">
-  <div class="elementor-background-video-container elementor-hidden-phone">
-            <iframe class="elementor-background-video-embed" frameborder="0" allowfullscreen="1" allow="accelerometer width="100%" height="100%" loop="true" autoplay="autoplay" controls; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" title="San Rafael, Mendoza. Dique los Reyunos" width="640" height="360" src="https://www.youtube.com/embed/tJ1OFB3Uyrs?controls=0&amp;rel=0&amp;playsinline=1&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fsanrafaelturismo.gov.ar&amp;widgetid=1" id="widget2" style="width: 1254px; height: 705.375px;"></iframe>
-          </div>
-    <div class="elementor-background-overlay"></div>
-<div class="elementor-container elementor-column-gap-default">
-<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-df89803" data-id="df89803" data-element_type="column">
-<div class="elementor-widget-wrap elementor-element-populated">
-  <div class="elementor-element elementor-element-ff3afc5 elementor-widget elementor-widget-heading" data-id="ff3afc5" data-element_type="widget" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<style>/*! elementor - v3.12.2 - 23-04-2023 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">BIENVENIDOS A SAN RAFAEL</h2>		</div>
-</div>
-<div class="elementor-element elementor-element-be839ac elementor-widget elementor-widget-heading" data-id="be839ac" data-element_type="widget" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">OTOÑO MARAVILLOSO</h2>		</div>
-</div>
-</div>
-</div>
-</div>
+<section class="breadcrumbs" data-id="c08a283" data-element_type="section">
+  <div class="" id="video-container">
+    <img id="video-thumbnail" src="{% static 'images/index-3-556x382.jpg' %}" style=" top: 0; left: 0; width: 50%; height: 50%;">
+    <iframe class="iframevideo" id="video-iframe" ; src="https://www.youtube.com/embed/BDZtDJpIsiw?controls=0&autoplay=1&loop=1&mute=1&disablekb=1&modestbranding=1&playsinline=1" allowfullscreen frameborder="0" allow="accelerometer; autoplay; muted; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" style="display: none; position: absolute; top: 0; left: 0; width: 1920px; height: 550px;" ></iframe>
+    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></div>
+  </div>
+  
+  <script>
+    setTimeout(function() {
+      document.getElementById('video-thumbnail').style.display = 'none';
+      document.getElementById('video-iframe').style.display = 'block';
+    }, 1000); // 5000 milisegundos = 5 segundos
+  </script>
+
 </section>
 <!-- Why choose us-->
 <section class="section section-sm section-first bg-default text-md-left">
@@ -549,8 +543,6 @@
 </section>
 
 {% endblock %}
-
-
 
 
 
