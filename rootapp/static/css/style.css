@@ -7778,55 +7778,9 @@ textarea.textarea-lg {
 *
 * Breadcrumbs
 */
-#video-iframe{
-	display: none;
-	position: absolute;
-	top: 0; 
-	left: 0; 
-	width: 1920px; 
-	height: 550px; 
 
 
-	
-	
-}
-#video-container {
-  position: relative;
-  width: 1920px;
-  height: 50%;
-  padding-bottom: 56.25%; /* Relación de aspecto 16:9 (divide el alto entre el ancho) */
-  overflow: hidden;
-}
 
-#video-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-.posicion-div{
-	position: absolute; 
-	top: 0; 
-	left: 0; 
-	width: 100%; 
-	height: 100%;
-}
-.video-background {
-	
-  }
-  
-  .video-background iframe {
-	
-  }
-
-  @media (min-aspect-ratio: 16/9) {
-	.video-background iframe  {
-		
-		
-	}
-  }
   
   @media (max-aspect-ratio: 16/9) {
 	.video-background iframe {
