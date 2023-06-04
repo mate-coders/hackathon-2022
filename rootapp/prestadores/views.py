@@ -13,3 +13,6 @@ def contact(request):
 
 def typography(request):
     return render(request, 'typography.html', {})
+
+def servicios(request):
+    return render(request, 'servicios.html', {})

@@ -162,5 +162,23 @@
     <!-- Javascript-->
     <script src="{% static 'js/core.min.js'%}"></script>
     <script src="{% static 'js/script.js'%}"></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        // Obtener la imagen de origen por su identificador
+        var sourceImage = document.querySelector("#source-image");
+    
+        // Obtener la imagen de destino por su identificador
+        var destinationImage = document.querySelector("#destination-image");
+    
+        // Agregar un controlador de eventos de clic a la imagen de origen
+        sourceImage.addEventListener("click", function() {
+          // Obtener la ruta de la imagen de origen
+          var sourceImageUrl = sourceImage.src;
+    
+          // Cambiar la imagen de destino por la imagen de origen
+          destinationImage.src = sourceImageUrl;
+        });
+      });
+    </script>
   </body>
 </html>

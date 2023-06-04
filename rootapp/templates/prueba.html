@@ -1,16 +1,19 @@
 {% extends './layouts/base.html' %} {% load static %} {% block Nav %}
 <ul class="rd-navbar-nav">
-  <li class="rd-nav-item active">
+  <li class="rd-nav-item">
     <a class="rd-nav-link" href="{% url 'prueba' %}">Home</a>
   </li>
-  <li class="rd-nav-item">
+  <li class="rd-nav-item active">
+    <a class="rd-nav-link" href="{% url 'servicios' %}">Servicios</a>
+  </li>
+  <li class="rd-nav-item active">
     <a class="rd-nav-link" href="{% url 'about' %}">About</a>
   </li>
   <li class="rd-nav-item">
-    <a class="rd-nav-link" href="{% url 'typography'%}">Typography</a>
+    <a class="rd-nav-link" href="{% url 'typography' %}">Typography</a>
   </li>
   <li class="rd-nav-item">
-    <a class="rd-nav-link" href="{% url 'contact'%}">Contact Us</a>
+    <a class="rd-nav-link" href="{% url 'contact' %}">Contact Us</a>
   </li>
 </ul>
 {% endblock %} {% block section %}
