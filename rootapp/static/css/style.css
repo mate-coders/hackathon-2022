@@ -24709,6 +24709,7 @@ img.mfp-img {
 
 .banner img {
 	width: 100%;
+	height: 340px;
 }
 
 @media (max-width: 1199.98px) {
