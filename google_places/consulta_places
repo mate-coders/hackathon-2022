@@ -1,0 +1,1004 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AZose0kMAor_XMFO-9DKIttiX-8UlSe7OHBDTU6eEKye_7kwhHtz_h9-zi74MeQyQrnqR-9qEmoJxpiGkG1UjbOc-8dsINr61MoX5mFSVdM2o2AUbyjlmiBGOl4b97KP17pI5rEmosnMDtAIyrX1LUM71M4Ha8uF5skBqtOxSYFbm_Be1FRb5o30To7xU9E-z4nXGXkTBaAMep0-0ztF69RqjGkKilhlT7yGZZFWLZ0SE5U-0vUQNM1PQ3XwsQT4cmgdwuQcUtpnXFk-uXcbwR-WUX0kP5SpdzyFE9CW4-0xo616sQAIhH_su92igOCgVQgv2etgzFJY0doyt1882xnQWcs3IASTnJ8dlyY48skAdCw9U8nYXkxLYZ9fVaKzUiqlFx-_Q54ezR5tLZAVjhX89UQCaEkPV6Eci2H1NVMJvJ9rdBxSyJs",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "San Rafael, Mendoza Province, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6129107,
+                    "lng": -68.3304291
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.61134647010728,
+                        "lng": -68.32897972010728
+                    },
+                    "southwest": {
+                        "lat": -34.61404612989273,
+                        "lng": -68.33167937989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Plaza San Martin",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1440,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105817578944685492832\">A Google User</a>"
+                    ],
+                    "photo_reference": "AZose0l6XI-SZx0-akPeCjcNza0EWEEBkjZFHt0K14Y_BNixgH54o65UL_p9zfq6NOQiKxQbDhXxdaNkjmyvQHVYP-Grp5J9qkYmS515mDsN2t7oR1ILNloreLvxqAZ4tY8EF4c2jT8cINWe0jan0y4QPbesAdnL1i2JvP2eA_Hq-SHtwZCg",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJ0dBO4fwHeZYRtKWQEqhYuSU",
+            "plus_code": {
+                "compound_code": "9MP9+RR San Rafael, Mendoza Province",
+                "global_code": "47QH9MP9+RR"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ0dBO4fwHeZYRtKWQEqhYuSU",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11016
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Rafael Marques de Sobremonte, M5600 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6108006,
+                    "lng": -68.3475687
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.60927002010728,
+                        "lng": -68.34588947010728
+                    },
+                    "southwest": {
+                        "lat": -34.61196967989272,
+                        "lng": -68.34858912989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Plaza Francia",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1800,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117436522769406738010\">A Google User</a>"
+                    ],
+                    "photo_reference": "AZose0nG1EuS0DATktB5OJG2AM7owMEtcBtLnWYJx51yRGGOsVgYIYMJCkKUUjpVKGysNTK9z7-EegreIQrSwkGFHwzTLhTiNAKiT-4xR8UH4VkcXPm7NpvXsf_bkwBw3AEeHohPMurIMnrAd3_qunr7xGgFQo6mxSlpXBNdhpSPCMo5-9Yr",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJM4lBwREIeZYRjueR9d5aFvw",
+            "plus_code": {
+                "compound_code": "9MQ2+MX San Rafael, Mendoza Province",
+                "global_code": "47QH9MQ2+MX"
+            },
+            "rating": 4.7,
+            "reference": "ChIJM4lBwREIeZYRjueR9d5aFvw",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13701
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jos\u00e9 Zapata S/N, M5600 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6111379,
+                    "lng": -68.326784
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.60987332010728,
+                        "lng": -68.32549337010727
+                    },
+                    "southwest": {
+                        "lat": -34.61257297989273,
+                        "lng": -68.32819302989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Museo Ferroviario",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104547900734004606423\">CLAUDIA ANDORO</a>"
+                    ],
+                    "photo_reference": "AZose0mNVad1lpGwzPCudgtBc7zhFmYD9forzTuej9tkfFVlgyPWgCeFwak5ab1Yh5wos32hHkkvVAdvITa6yGKpBegO7oCHxxa1heYTWz2xDPmhAONDZO23QedxEQrBetXnKCMl_sdF3J1NpTgemsxCIRUGm3oOfp9X6gW_V6uRIWUcj3PE",
+                    "width": 3072
+                }
+            ],
+            "place_id": "ChIJKRjZSPsHeZYRDajqbQMA8q0",
+            "plus_code": {
+                "compound_code": "9MQF+G7 San Rafael, Mendoza Province",
+                "global_code": "47QH9MQF+G7"
+            },
+            "rating": 4.3,
+            "reference": "ChIJKRjZSPsHeZYRDajqbQMA8q0",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2422
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Av. Hip\u00f3lito Yrigoyen 1546-1600, San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6107315,
+                    "lng": -68.3483428
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.60938167010728,
+                        "lng": -68.34699297010728
+                    },
+                    "southwest": {
+                        "lat": -34.61208132989272,
+                        "lng": -68.34969262989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Children's park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109130431398582204304\">Gustavo Cambiaso</a>"
+                    ],
+                    "photo_reference": "AZose0nYpU7qPBF_2_d0ixxdiqLV8MJ0fgKBDY-zV0wPPjm65LLH6luaMC3VnKlFpwuzDuB3hnDrb-kxUDM6fNRHdLzsSeBFhIaQMxzmAWIY0jeSO6BCQmayBEyAfZkoYM3qXPONUE1u5gsCjp0frW2DPCL_Aiuj2ODjSIUrBZVSrFOISoMJ",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJaSErcREIeZYRtnbsCGvuX7E",
+            "plus_code": {
+                "compound_code": "9MQ2+PM San Rafael, Mendoza Province",
+                "global_code": "47QH9MQ2+PM"
+            },
+            "rating": 4.8,
+            "reference": "ChIJaSErcREIeZYRtnbsCGvuX7E",
+            "types": [
+                "park",
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6895
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "CHO, Dr. Carlos Pellegrini 355, M5602 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6124901,
+                    "lng": -68.329754
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.61116732010727,
+                        "lng": -68.32832122010727
+                    },
+                    "southwest": {
+                        "lat": -34.61386697989271,
+                        "lng": -68.33102087989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+            "name": "Catedral San Rafael Arc\u00e1ngel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2048,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111643892100907233804\">lewis medina</a>"
+                    ],
+                    "photo_reference": "AZose0nOF0VsIKsT-7MJjm9sYvvXtG0At0RT_KzsrscJg0w1jDuom3D0Uq-WLwGJEaDuFqdaNENOIfskJnIR8rYPBuueGDiAeNtXFqDHbbBOOKMGduVs6d1HRLZvglEPbWxaXlMRTdtBqGY6GN1EK2jkJvl6Yak11tdFixlOoRpKhljFxBZ_",
+                    "width": 1359
+                }
+            ],
+            "place_id": "ChIJ5w2quPwHeZYR81REt14TNbE",
+            "plus_code": {
+                "compound_code": "9MQC+23 San Rafael, Mendoza Province",
+                "global_code": "47QH9MQC+23"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ5w2quPwHeZYR81REt14TNbE",
+            "types": [
+                "church",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1144
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cnel. Ricardo Day 477, M5600 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.612229,
+                    "lng": -68.3346706
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.61083522010728,
+                        "lng": -68.33329337010727
+                    },
+                    "southwest": {
+                        "lat": -34.61353487989273,
+                        "lng": -68.33599302989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Oficina Kintun Expediciones",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103201613079975000891\">Haver Mauricio</a>"
+                    ],
+                    "photo_reference": "AZose0kZxWvHEJ860IcYx8CPPAjkfLzfNUycIyBxmguf9BUSKEQu35QBYCencFM7IwEs3UFFrlCuKJgIQuGKwo85kOXhmj4-REIBEPhKxtbO78okOB0wZeVQbwq9bOTkQANEfKWYpOt5YLCa4sETMGF2npYe4P288epUQZVg1a9IEva7Oyho",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ0z7RpFoJeZYRbvf3XY4aGhs",
+            "plus_code": {
+                "compound_code": "9MQ8+44 San Rafael, Mendoza Province",
+                "global_code": "47QH9MQ8+44"
+            },
+            "rating": 4.9,
+            "reference": "ChIJ0z7RpFoJeZYRbvf3XY4aGhs",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 76
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Av. Gral. Jos\u00e9 de San Mart\u00edn, San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.611328,
+                    "lng": -68.3272789
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.60995202010728,
+                        "lng": -68.32600507010727
+                    },
+                    "southwest": {
+                        "lat": -34.61265167989272,
+                        "lng": -68.3287047298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Plazoleta The Immigrant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115676489987054119695\">Silvia Rihl</a>"
+                    ],
+                    "photo_reference": "AZose0kdvysh7dKj_kLDMD-3TFVONj_xEfF_dTN95f0jMyt8LGr8rLKPpV9T6od2WPQsZnYMGENn_FF2wdvCrCsN8wmcyVyS4dM59DOWNabJ7DeLiKexcWcwJggBMuUZbG-1JpI_sZceG3gWQPHyEB7fJqBBsfh8mK7CrUHU6ejLF3towXzr",
+                    "width": 1348
+                }
+            ],
+            "place_id": "ChIJ3QIRUPsHeZYRy3CDTBirgUg",
+            "plus_code": {
+                "compound_code": "9MQF+F3 San Rafael, Mendoza Province",
+                "global_code": "47QH9MQF+F3"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ3QIRUPsHeZYRy3CDTBirgUg",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 540
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Per\u00fa 2100, M5602CMH San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6138133,
+                    "lng": -68.35309
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.61218747010727,
+                        "lng": -68.35219272010727
+                    },
+                    "southwest": {
+                        "lat": -34.61488712989271,
+                        "lng": -68.3548923798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Hip\u00f3lito Yrigoyen Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111730801707279361704\">Gery Aguilera Rojo</a>"
+                    ],
+                    "photo_reference": "AZose0kZCyqKsDJ9p8VE4i-ULW3xQFsRniM8X9-YrET9HywFlAturcK1ta3FXy_cG6HH4_ra4RWF_hhp3u-kFWFzW6ZTWhgsBTPIQ6xRUxgrRvr8joLJAdGZfaYT4fVy9BqFjX3q0oSbTXQi1O-ctRh6U4G4W1Dg7CNsnJfgwz4gC-hvhkyl",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJLfcVfvcJeZYRU26j3h0IBeg",
+            "plus_code": {
+                "compound_code": "9JPW+FQ San Rafael, Mendoza Province",
+                "global_code": "47QH9JPW+FQ"
+            },
+            "rating": 4.8,
+            "reference": "ChIJLfcVfvcJeZYRU26j3h0IBeg",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1157
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "San Rafael, Mendoza Province, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.7499318,
+                    "lng": -68.47004489999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.74827762010727,
+                        "lng": -68.46710760000002
+                    },
+                    "southwest": {
+                        "lat": -34.75097727989272,
+                        "lng": -68.471024
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Villa las Tinajas Archaeological Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3072,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110790758612747579332\">Florencia Moralez</a>"
+                    ],
+                    "photo_reference": "AZose0mfSVt901Uic9fh5Fw1SRomdt-kOl-0Kg6V8SRI1vz74aE0Egq7J9zor7_UTWWNvx0ZX40UVeEPZd4CUojlt_kUwSgyiNeXpkT0wZvhPmUTmgYxCy9l0OmSlBgA3xg92Ve1ka_n4OBcY0WIcsnplxswOf7d8NmARJJIT8QMB07mWbPF",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJjQO_ccmjeZYRRvq7FE1BDQw",
+            "plus_code": {
+                "compound_code": "7G2H+2X San Rafael, Mendoza Province",
+                "global_code": "47QH7G2H+2X"
+            },
+            "rating": 4.4,
+            "reference": "ChIJjQO_ccmjeZYRRvq7FE1BDQw",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 689
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Agriman, San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6493794,
+                    "lng": -68.3672681
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.64801517010727,
+                        "lng": -68.36591002010726
+                    },
+                    "southwest": {
+                        "lat": -34.65071482989272,
+                        "lng": -68.36860967989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Parque De La Isla",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1800,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110746669877131170212\">D-Barker Nascr</a>"
+                    ],
+                    "photo_reference": "AZose0mA4O0J86VhzuC4S2AyMgKEZMU6CAUSVKzX4gfoXxX4B5darvJPNIIgYqrY-KY4ObF3m2sLs6rLfScAaKamTDpLuU38NZZesxceIdT2VoanLyHsYLXQVuIoCJPLxfaO54RBIKWtN9dh75PubE82NblbGqQIbs1JbZMH7F7oLM48Mfmc",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJT5YeRJmneZYRq29u_aFWk6k",
+            "plus_code": {
+                "compound_code": "9J2M+63 San Rafael, Mendoza Province",
+                "global_code": "47QH9J2M+63"
+            },
+            "rating": 4.2,
+            "reference": "ChIJT5YeRJmneZYRq29u_aFWk6k",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1674
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "RP173, San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.8462697,
+                    "lng": -68.51116259999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.84491542010728,
+                        "lng": -68.50980707010727
+                    },
+                    "southwest": {
+                        "lat": -34.84761507989272,
+                        "lng": -68.51250672989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Ca\u00f1on del Atuel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1816,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104994398947274802224\">A Google User</a>"
+                    ],
+                    "photo_reference": "AZose0nVePQI5yggoS7n6TpOv4PCgcd4HhI2YIhljslgLOTT-pmxA6pkQp-OcBb8qm0g1scU8jYFsc6k2BO60Mxh0KgBbjbai2PUnMZyTI1iV1UtXtUYq8WK9x1-qCoyZFQBywQVIrEn7MfqmRk2kdjRXURG7XHbmslRAMY6uayT5gU3U_wg",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJgXiPP2i9eZYRAJO3oEgxod8",
+            "rating": 4.8,
+            "reference": "ChIJgXiPP2i9eZYRAJO3oEgxod8",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3049
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Av. Hip\u00f3lito Yrigoyen 1900, M5600 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6075697,
+                    "lng": -68.3511182
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.60622427010728,
+                        "lng": -68.34971447010726
+                    },
+                    "southwest": {
+                        "lat": -34.60892392989273,
+                        "lng": -68.35241412989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Bodega La Abeja",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116556183405450290810\">Lukpo5215 :D</a>"
+                    ],
+                    "photo_reference": "AZose0nlcsaN_rRa9_2869CHrDPwiUHGeHDR4GuYORphV-t2Vp6GPX8wTvnBsF_fUbVmry_hI7aDvEK4RS44GJn1heAN0rjmTa-qoS46l21H9_MFS8j_41U1JoHdWYWFydi3ShPt2wajr-NAzsTYkXLY7ZLCkcWwb7Q2WhOeZBTcjbTqlGEH",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJv1sUdRQIeZYRKtyMX21o8ZY",
+            "plus_code": {
+                "compound_code": "9JRX+XH San Rafael, Mendoza Province",
+                "global_code": "47QH9JRX+XH"
+            },
+            "rating": 4.8,
+            "reference": "ChIJv1sUdRQIeZYRKtyMX21o8ZY",
+            "types": [
+                "tourist_attraction",
+                "liquor_store",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 3534
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "San Rafael, Mendoza Province, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6131216,
+                    "lng": -68.35236119999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.61177157010727,
+                        "lng": -68.35101722010728
+                    },
+                    "southwest": {
+                        "lat": -34.61447122989271,
+                        "lng": -68.35371687989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "J\u00f3venes Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112161981219539542836\">Mauricio Arditi</a>"
+                    ],
+                    "photo_reference": "AZose0nXQrhjc2XQ-HrNNjflfQSfNMsmT02hoadpcFjuPfk6gijbmBM6gOTZkDPxjHPbM6XuQ-Q9FZe1VzRWSsxghU9-rOhFJc9LIdkVOmAAj8D41SiHRomaaOd_RZecQnKQogA_Kw9wzXkqDEVWWqxkjUs-cJQuggY4M4vXkB2S6x9sZs_5",
+                    "width": 6240
+                }
+            ],
+            "place_id": "ChIJH92VGzsJeZYRtQLRDE5tDts",
+            "plus_code": {
+                "compound_code": "9JPX+Q3 San Rafael, Mendoza Province",
+                "global_code": "47QH9JPX+Q3"
+            },
+            "rating": 4.7,
+            "reference": "ChIJH92VGzsJeZYRtQLRDE5tDts",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 42
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "San Rafael, Mendoza Province, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6136912,
+                    "lng": -68.3068735
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.61249417010728,
+                        "lng": -68.30547172010728
+                    },
+                    "southwest": {
+                        "lat": -34.61519382989272,
+                        "lng": -68.30817137989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Parque Juan Domingo Per\u00f3n",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2322,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107902456368842365253\">Ariel Garc\u00eda</a>"
+                    ],
+                    "photo_reference": "AZose0lbVeONzvn-ZLFRwarhDM-UlP9M703hgVYWsdTJZja6d4D9vpJkj0idNh35SXcCDKC2wqSi7P9jouJK5XKRT6cbtLr8Oyd88lDe_2GezP-uAfpiJ_ugndvr-NEFneOCkoDnV4MUQQIpVN5mlL5GTa-vp3ldfUscFKhYgxhavO2Bfg84",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJ13L9cPMHeZYR7LYvlytpqzI",
+            "plus_code": {
+                "compound_code": "9MPV+G7 San Rafael, Mendoza Province",
+                "global_code": "47QH9MPV+G7"
+            },
+            "rating": 4,
+            "reference": "ChIJ13L9cPMHeZYR7LYvlytpqzI",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 318
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Av. Guillermo Rawson 130, M5600 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.60709980000001,
+                    "lng": -68.3549645
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.60579962010727,
+                        "lng": -68.35355162010727
+                    },
+                    "southwest": {
+                        "lat": -34.60849927989271,
+                        "lng": -68.35625127989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Paseo Rawson",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4176,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115555136806167856610\">A Google User</a>"
+                    ],
+                    "photo_reference": "AZose0lZgqk3VYiKBiZMANF3QGkNn5hcbRXacdW9UMSZeezVWCXYNVzA8ldCvv9q9pcyWOyJ6LAxZKUE0pKB9i0RUAXgbc6LAieCw2vap_T1THiEuCDvMrAi95sWdTnyygTskESJ7rezZP6st8cz8argLYoCi8u3c3hns6VEkqt4_XJH4bXB",
+                    "width": 5568
+                }
+            ],
+            "place_id": "ChIJ_emddecJeZYReQhCptYdNTs",
+            "plus_code": {
+                "compound_code": "9JVW+52 San Rafael, Mendoza Province",
+                "global_code": "47QH9JVW+52"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ_emddecJeZYReQhCptYdNTs",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 261
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Av. Hip\u00f3lito Yrigoyen 642, M5600 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6133001,
+                    "lng": -68.3378192
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.61202452010728,
+                        "lng": -68.33650837010728
+                    },
+                    "southwest": {
+                        "lat": -34.61472417989272,
+                        "lng": -68.33920802989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Excursiones Ahora",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 810,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100378510815351103299\">FACUNDO ESPINA</a>"
+                    ],
+                    "photo_reference": "AZose0ntRaly_Gip1O8QBK9eMsdMaPGNupyKdV6jpBYfAS3-3EnJknT5DJG3U6-wBgErYn6amTSJ0mOMAFmxpaRDk5E7O0VqKRrUjbg1JXfWsGVsmkZk5wJghJbtN-UiX6fKAFsdJ6l2K2ySRAZjaW66r6X-Bj-fj-5WrrxUhGnQKY6c030m",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJ56dRBwYIeZYRSWtzcWkbGwQ",
+            "plus_code": {
+                "compound_code": "9MP6+MV San Rafael, Mendoza Province",
+                "global_code": "47QH9MP6+MV"
+            },
+            "rating": 4.8,
+            "reference": "ChIJ56dRBwYIeZYRSWtzcWkbGwQ",
+            "types": [
+                "tourist_attraction",
+                "real_estate_agency",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 150
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ruta 173, Rama Caida, M5600 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6950895,
+                    "lng": -68.38683820000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.69372792010728,
+                        "lng": -68.38554267010727
+                    },
+                    "southwest": {
+                        "lat": -34.69642757989272,
+                        "lng": -68.38824232989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Old Winery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1800,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117046535492669925135\">A Google User</a>"
+                    ],
+                    "photo_reference": "AZose0nDLo1NqSGwaDpfuojcF0e4U7dajmVhqalCK-2HFhIOcLaj_oiUBkRYVe0LDKq1hfrQQ443z-tHb3uH3zwNwqHAeqxFZyW1N7DyfaPjnPS27SMUnKmhI8pV2X4zWcKfKzJDbBigxaY0iJb9KqOCja-Inq-zyfTont5Z_Rr3MNO4p2Ek",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJM0xljxkIeZYR1qJmtjz579Y",
+            "plus_code": {
+                "compound_code": "8J37+X7 San Rafael, Mendoza Province",
+                "global_code": "47QH8J37+X7"
+            },
+            "rating": 4.5,
+            "reference": "ChIJM0xljxkIeZYR1qJmtjz579Y",
+            "types": [
+                "tourist_attraction",
+                "lodging",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1207
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Calle Bombal, Cuadro Bombal, Cuadro Nacional, Hidalgo e, M5600 San Rafael, Mendoza, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6583896,
+                    "lng": -68.2409218
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.65704252010728,
+                        "lng": -68.23956577010728
+                    },
+                    "southwest": {
+                        "lat": -34.65974217989272,
+                        "lng": -68.24226542989271
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Borges Labyrinth",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105400309973716096275\">Marcela Alejandra Mendoza</a>"
+                    ],
+                    "photo_reference": "AZose0mKQuJh3vnuK-yygrGckBr90OFqgP1RyCXU-gzciB09BVXGj0w_rn8s9Q82QDbQr-3MdUfxGJaJruHP2xKDjtnpd3BeU9pAuKbFFqoDsBf-rmf2vXRwTJ4GFZBSNZ8JQ5VagoFZqGXMFfmfG5m0-Wfgvu6X5Hd18WwUQ9XYQp40mzMC",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJgUt332KpeZYRbXjN6TM8P-0",
+            "plus_code": {
+                "compound_code": "8QR5+JJ San Rafael, Mendoza Province",
+                "global_code": "47QH8QR5+JJ"
+            },
+            "rating": 4.4,
+            "reference": "ChIJgUt332KpeZYRbXjN6TM8P-0",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14038
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "San Rafael, Mendoza Province, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.60946029999999,
+                    "lng": -68.3561155
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.60819772010727,
+                        "lng": -68.35488117010728
+                    },
+                    "southwest": {
+                        "lat": -34.61089737989272,
+                        "lng": -68.35758082989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Plaza",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107786462297950408276\">fernando perez</a>"
+                    ],
+                    "photo_reference": "AZose0l9wo-Vn3miKxqmqNG8d-gJOd9Cqrjcd10wWUQfpfa9ehgJ6F3j3tGCotyHptG26MGTH-zpOyHuChI2YPYbTfSYBlU1T9za1GWypZ2-KJ90l4J0JbMAV7XczlXYTco9pDCeFFYdp3aS2p8qHSfD2C91nHqLHZgR4G7DSWDkfUw9aT7i",
+                    "width": 2268
+                }
+            ],
+            "place_id": "ChIJS8ODvxUIeZYRmLQNTtg8Chc",
+            "plus_code": {
+                "compound_code": "9JRV+6H San Rafael, Mendoza Province",
+                "global_code": "47QH9JRV+6H"
+            },
+            "rating": 4.4,
+            "reference": "ChIJS8ODvxUIeZYRmLQNTtg8Chc",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 39
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "San Rafael, Mendoza Province, Argentina",
+            "geometry": {
+                "location": {
+                    "lat": -34.6128922,
+                    "lng": -68.3390622
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -34.61158877010728,
+                        "lng": -68.33773307010728
+                    },
+                    "southwest": {
+                        "lat": -34.61428842989272,
+                        "lng": -68.34043272989273
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Plaza San Martin",
+            "place_id": "ChIJq5I6vJ8JeZYROx8BKXpvhxA",
+            "plus_code": {
+                "compound_code": "9MP6+R9 San Rafael, Mendoza Province",
+                "global_code": "47QH9MP6+R9"
+            },
+            "rating": 3,
+            "reference": "ChIJq5I6vJ8JeZYROx8BKXpvhxA",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        }
+    ],
+    "status": "OK"
+}
