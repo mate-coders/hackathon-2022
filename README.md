@@ -1,5 +1,6 @@
 # Hackathon-2022
 
+<<<<<<< Updated upstream
 ## Instructivo entorno virtual
 
 Primero debemos instalar `virtualenv`, este es un complemento, con el que desde la terminal podemos crear un entorno virtual para un proyecto de desarrollo python. También este complemento nos permitirá levantar el entorno virtual.
@@ -71,3 +72,8 @@ Y LISTO terminamos con el proceso de instalación del entorno!!!!!
 ## Rama Plantillas
 
 En esa rama se encuentra la arquitectura básica para el uso de plantillas `.html` y archivos `.css`. Esta es una estructura modularizada, donde las diferentes partes de la pagina se pueden trabajar de forma separada.
+=======
+>alojamiento, como hoteles, apart hotel, cabañas y campings
+
+>actividades de turismo aventura como rafting, trekking y paseos por el lago,  escalada, rappel, etc. 
+>>>>>>> Stashed changes

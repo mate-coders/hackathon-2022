@@ -1,6 +1,18 @@
 from django.db import models
 
+class Type(models.Model):
+    name = models.CharField(max_length=20)
 
+class Place(models.Model):
+    name = models.CharField(max_length=50)
+    address = models.CharField(max_length=80)
+    latitude = models.FloatField()
+    longitude = models.FloatField()
+    rating = models.FloatField()
+    users_rating = models.IntegerField()
+    type = models.ManyToManyField(Type)
+
+"""
 class Prestadores(models.Model):
     nombre = models.CharField(max_length=50)
     email = models.EmailField(max_length=254)
@@ -21,4 +33,4 @@ class Hoteles(models.Model):
     wifi = models.BooleanField()
     servicio_al_cuarto = models.BooleanField()
     nombre = models.ForeignKey(Prestadores, on_delete=models.CASCADE)
-   
+"""   
