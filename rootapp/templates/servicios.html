@@ -6,7 +6,7 @@
   <li class="rd-nav-item active">
     <a class="rd-nav-link" href="{% url 'servicios' %}">Servicios</a>
   </li>
-  <li class="rd-nav-item active">
+  <li class="rd-nav-item">
     <a class="rd-nav-link" href="{% url 'about' %}">About</a>
   </li>
   <li class="rd-nav-item">
@@ -72,7 +72,7 @@
                   </div>
                   <div class="progress-bar-linear-wrap">
                     <div class="progress-bar-linear" data-gradient="">
-                      <span id="france-value" class="progress-value">79</span
+                      <span id="progress-value-1" class="progress-value">99</span
                       ><span class="progress-marker"></span>
                     </div>
                   </div>
@@ -84,7 +84,7 @@
                   </div>
                   <div class="progress-bar-linear-wrap">
                     <div class="progress-bar-linear" data-gradient="">
-                      <span class="progress-value">72</span
+                      <span id="progress-value-2" class="progress-value">70</span
                       ><span class="progress-marker"></span>
                     </div>
                   </div>
@@ -96,7 +96,7 @@
                   </div>
                   <div class="progress-bar-linear-wrap">
                     <div class="progress-bar-linear" data-gradient="">
-                      <span class="progress-value">88</span
+                      <span id="progress-value-3" class="progress-value">50</span
                       ><span class="progress-marker"></span>
                     </div>
                   </div>
@@ -109,8 +109,9 @@
                   <div class="col-sm-4">
                     <!-- Circle Progress Bar-->
                     <div
+                      id="progress-bar-circle-1"
                       class="progress-bar-circle"
-                      data-value="0.87"
+                      data-value="progress-bar-circle-1"
                       data-gradient="#01b3a7"
                       data-empty-fill="transparent"
                       data-size="150"
@@ -124,8 +125,9 @@
                   <div class="col-sm-4">
                     <!-- Circle Progress Bar-->
                     <div
+                      id="progress-bar-circle-2"
                       class="progress-bar-circle"
-                      data-value="0.74"
+                      data-value="progress-bar-circle-2"
                       data-gradient="#01b3a7"
                       data-empty-fill="transparent"
                       data-size="150"
@@ -140,7 +142,8 @@
                     <!-- Circle Progress Bar-->
                     <div
                       class="progress-bar-circle"
-                      data-value="0.99"
+                      id="progress-bar-circle-3"
+                      data-value=""
                       data-gradient="#01b3a7"
                       data-empty-fill="transparent"
                       data-size="150"
@@ -198,9 +201,8 @@
       </div>
     </div>
   </section>
-  <!-- Latest Projects-->
 
-
+  
   <section class="section section-sm section-fluid bg-default">
     <div class="container">
       <h1>Hoteles</h1>
@@ -222,7 +224,8 @@
         <article class="thumbnail thumbnail-mary">
           <div class="thumbnail-mary-figure">
             <img
-                id="source-image"
+                active
+                id="source-image-1"
                 src="{% static 'images/gallery-image-011-420x308.jpg'%}"
                 alt=""
                 width="420"
@@ -231,10 +234,12 @@
           </div>
           <div class="thumbnail-mary-caption">
             <a
+              id="france-link-1"
               class="icon fl-bigmug-line-zoom60"
               href="{% static 'images/gallery-image-011-1200x800-original.png'%}"
               data-lightgallery="item"
               ><img
+                id="france-link-1"
                 src="{% static 'images/gallery-image-011-420x308.jpg'%}"
                 alt=""
                 width="420"
@@ -253,7 +258,7 @@
         <article class="thumbnail thumbnail-mary">
           <div class="thumbnail-mary-figure">
             <img
-              id="source-image"
+              id="source-image-2"
               src="{% static 'images/gallery-image-012-420x308.jpg'%}"
               alt=""
               width="420"
@@ -284,6 +289,7 @@
         <article class="thumbnail thumbnail-mary">
           <div class="thumbnail-mary-figure">
             <img
+              id="source-image-3"
               src="{% static 'images/gallery-image-013-420x308.jpg'%}"
               alt=""
               width="420"
@@ -292,6 +298,7 @@
           </div>
           <div class="thumbnail-mary-caption">
             <a
+              
               class="icon fl-bigmug-line-zoom60"
               href="{% static 'images/gallery-image-013-1200x800-original.jpg'%}"
               data-lightgallery="item"
@@ -314,6 +321,7 @@
         <article class="thumbnail thumbnail-mary">
           <div class="thumbnail-mary-figure">
             <img
+              id="source-image-4"
               src="{% static 'images/gallery-image-014-420x308.jpg'%}"
               alt=""
               width="420"
@@ -344,6 +352,7 @@
         <article class="thumbnail thumbnail-mary">
           <div class="thumbnail-mary-figure">
             <img
+              id="source-image-5"
               src="{% static 'images/gallery-image-015-420x308.jpg'%}"
               alt=""
               width="420"
@@ -374,6 +383,7 @@
         <article class="thumbnail thumbnail-mary">
           <div class="thumbnail-mary-figure">
             <img
+              id="source-image-6"
               src="{% static 'images/gallery-image-16-420x308.jpg'%}"
               alt=""
               width="420"
@@ -426,6 +436,7 @@
           <div class="quote-lisa-body">
             <a class="quote-lisa-figure" href="#"
               ><img
+                
                 class="img-circles"
                 src="{% static 'images/user-16-100x100.jpg'%}"
                 alt=""

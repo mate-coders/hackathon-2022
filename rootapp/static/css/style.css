@@ -20600,11 +20600,11 @@ h1 + .tabs-line {
 	transition: .5s all ease-in-out;
 }
 
-.progress-value::after {
+.progress-value::after{
 	content: "%";
 }
 
-.progress-value {
+.progress-value  {
 	position: absolute;
 	bottom: 100%;
 	right: -4px;
