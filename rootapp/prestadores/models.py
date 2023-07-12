@@ -45,6 +45,15 @@ class Alojamiento(Place):
     estrellas = models.FloatField(validators=[validate_estrellas])
     tipo = models.ManyToManyField(TipoAlojamiento)
 
+
+class TiposActividad(models.Model):
+    name = models.CharField(max_length=15)
+    price = models.FloatField()
+    descripcion = models.TextField()
+    hora = models.IntegerField()
+    disponibilidad = models.BooleanField()
+
+    
 class Actividad(models.Model):
     name = models.CharField(max_length=50)
     tipo = models.CharField(max_length=50)
@@ -52,6 +61,7 @@ class Actividad(models.Model):
     precio = models.FloatField()
     estacionalidad = models.CharField(max_length=80)
     place = models.ForeignKey(Place, on_delete=models.CASCADE)
+    tipo = models.ManyToManyField(TiposActividad)
 
 class Evento(models.Model):
     name = models.CharField(max_length=80)
